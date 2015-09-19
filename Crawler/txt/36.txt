@@ -1,0 +1,3567 @@
+经济管理学院 
+
+00510032 企业管理基础 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Foundation of Enterprise Management  
+
+本课程主要针对工科背景的学生介绍企业经营管理的入门知识，包括企业的组织、市场营销、项目管理、
+
+竞争策略等一些基础性知识，注重实务，采用案例分析，利用网上资源作为辅助手段。 
+
+ 
+00510133 会计学原理 
+
+Accounting Principles 
+
+ 
+
+3 学分 
+
+48 学时 
+
+本课以西方财务会计为主线，其主要内容涉及会计的基本概念、会计假设和会计原则、复式记账的原理和
+
+方法、财产的设置及会计循环、主要经济业务的会计处理、公司会计、财务报表的编制与分析。涉及的主
+
+要会计方法：应收帐款的总价法、净价法、票据贴现、成本与市价孰低法等。 
+
+ 
+00510163 保险学原理 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Fundamentals of Insurance 
+
+这门课程通过探讨风险的来源、风险的成本、个人和公司可以利用的减轻风险成本的方法，使学生了解风
+
+险管理与保险的基础知识。课程的重点是将保险作为风险管理中一种独特而有效的风险管理方法，涵盖的
+
+内容包括风险管理和保险基础、财产和责任保险、人寿和健康保险以及保险市场和监管等。 
+
+ 
+00510202 管理学基础 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Fundamentals of Management  
+
+本课是对管理学科的一个概论。课程内容围绕管理的四项基本职能——计划、组织、领导、控制——展开，
+
+涉及到了大部分的管理课程。具体内容包括：管理的基本概念；西方管理发展简史，古典管理理论的主要
+
+内容，中国古代管理思想精华；组织环境分析；决策的要素、程序和主要方法；计划的形式、程序和主要
+
+方法；战略管理的概念和程序；组织的基本概念及组织设计；组织变革；沟通的过程、障碍，有效沟通的
+
+方法；人力资源管理的主要职能；组织中的个体和群体行为；领导理论；激励理论和方法；控制的程序和
+
+方法；管理的一般流程。 
+
+ 
+00510212 商务谈判原理及模拟   
+
+2 学分 
+
+32 学时 
+
+Principle and Simulation of Business Negotiation 
+
+谈判过程，谈判要素分析和谈判实力，谈判者形象设计，谈判对手类型，优劣势分析方法，拒绝方法，准
+
+备，战略对策分析方法。谈判原则，感情运用，谈判策略，国家谈判中的文化差异，如何准备面试。 
+
+ 
+00510222 质量管理学 
+
+Quality Management 
+
+ 
+
+2 学分 
+
+32 学时 
+
+质量管理学科的由来和发展，全面质量管理的理论和方法，顾客满意与顾客满意度模型，统计过程控制的
+
+原理与方法，质量检验验收抽样方案设计质量体系标准的内容与结构，企业自我评价与世界质量奖，当代
+
+世界经典质量学说解析。课程将深入剖析当代的质量理念与质量管理理念。沿着从基础、改进到卓越的途
+
+径，依次介绍：ISO9000 及质量管理体系、六西格玛、卓越绩效全国质量奖。参照对质量管理四个发展阶
+
+段的论述，对质量理论的重要理论、工具与方法进行介绍。 
+
+ 
+00510232 技术创新管理 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Management of Technological Innovation 
+
+技术创新概念，技术创新基本理论，技术创新战略，技术创新过程管理，研究开发管理，创新项目管理，
+
+创新产品营销管理，技术创新能力管理等。 
+
+ 
+00510273 国际经济学 
+
+International Economics 
+
+ 
+
+3 学分 
+
+48 学时 
+
+国际贸易理论，国际贸易政策，资本流动理论，国际收平衡，汇率决定理论，汇率制度，开放经济条件下
+
+的宏观经济政策。 
+
+ 
+00510311 牛鞭效应－供应链管理入门 
+
+Introduction to Supply chain management  
+
+ 
+
+1 学分 
+
+16 学时 
+
+随着科学技术的进步，特别是信息技术的飞速发展，为企业提供了更多的机会提高他们的生产率，同时，
+
+市场由"卖方市场"转向"买方市场"。在新的形势下，供应链管理成为公司级的任务，许多战略目标都由之决
+
+定。供应链管理已成为本世纪企业竞争的焦点，并且一些企业开拓性的努力已取得显著的成果。然而，研
+
+究供应链整体的行为及其控制和优化方法远比研究其中某个成员的管理问题要复杂的多。作为一门入门的
+
+课程，希望能够通过非常短的时间让学生了解供应链管理产生的背景，基本概念，常见的方法，进一步的
+
+发展等。并且，就供应链管理中的一个典型－－牛鞭效应(Bullwhip Effect)展开深入的讨论，主要内容包括：
+
+供应链产生的背景，牛鞭效应的基本概念、产生的原因、可能的对策等。 
+
+ 
+00510353 经济博弈论 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Economic Applications of Game Theory 
+
+博弈论是现代经济学的重要支柱，在其他社会科学（如法学、政治学）甚至某些自然科学（如生物学）中
+
+也日益发挥作用。本课程是博弈论的入门课，主要目的是使学生：领会博弈论的基本思想；初步掌握博弈
+
+论的基本概念与分析方法；培养运用博弈论的思想和方法观察和分析经济社会现象的能力。 
+
+ 
+00510363 经济学原理 
+
+Principles of Economics 
+
+ 
+
+3 学分 
+
+48 学时 
+
+导言，供给与需求，公共部门经济学，企业行为与产业组织。 
+
+劳动市场经济学，宏观经济学的数据。长期中的实际经济，长期中的货币与物价，开放经济宏观经济学，
+
+短期经济波动。 
+
+ 
+00510381 中国国家经济安全研讨 
+
+Chinese Economic Security 
+
+ 
+
+1 学分 
+
+16 学时 
+
+主要研讨国家经济安全的基本内涵；国家经济安全的基础理论与分析方法；中国国家经济安全面对的主要
+
+问题，主要安全领域（战略资源、能源、产业、金融、财政、安全环境）存在的问题和挑战；中国国家经
+
+济安全的监测预警与危机管理、制度建设。 
+
+ 
+00510392 创业管理 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Entrepreneurial    Management  
+
+创业者和创业机会；创业机会的识别和评价的具体步骤分析；综合案例分析。 
+
+ 
+00510433 对策、决策与排队论   
+
+3 学分 
+
+48 学时 
+
+Game,Decision Making and Queuing Theory  
+
+本课程主要讲授：1.  排队论（包括：引言；生灭过程和 Poisson 过程；M / M / s  等待制排队模型；  M / M / 
+
+s  混合制排队模型；其它排队模型简介；排队系统的优化），2.  对策论（包括：引言；矩阵对策的基本理论
+
+（纯策略）；矩阵对策的基本理论（混合策略）；矩阵对策的解法；其它类型的对策简介；冲突分析简介），
+
+3.决策论（包括：决策分析的基本问题；风险型决策方法；决策树方法；不确定型决策方法；效用函数方
+
+法；层次分析法；多目标决策分析简介）注意：一定要具有基础概率和线性代数的初步知识。 
+
+ 
+00510443 运筹学基础 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Introduction to Operations Research 
+
+运筹学是既富有深奥的理论基础，又具有很强的实用价值的一门学科。本课为 48 学时，将在较短时间内介
+
+绍运筹学中最基本的内容--规划论；其中包括：1.线性规划（包括建模，单纯形算法，对偶理论及应用，运
+
+输问题的表上作业法，扰动及灵敏度分析）2 整数规划（包括建模，分枝定界算法和匈牙利算法）3.动态规
+
+划（介绍动态规划的最优化原理，建模及后向动态规划递推算法）4.非线性规划（介绍非线性规划的建模，
+
+一维寻优以及多维无约束寻优方法）注意：一定要具有线性代数的初步知识 
+
+ 
+00510454 经济学原理 
+
+Principles of Economics 
+
+ 
+
+4 学分 
+
+64 学时 
+
+本课分为微观经济学、宏观经济学两大部分。微观经济学以供求分析为主线，讨论市场运行的基本机制及
+
+其福利评价，公共部门经济学，企业行为与产业组织。宏观部分分别就长期和短期中宏观经济的不同理论
+
+及其分析框架进行讲授。 
+
+ 
+00510463 中级微观经济学  
+
+Intermediate Microeconomics 
+
+3 学分 
+
+48 学时 
+
+本课程介绍中级微观经济学中的重要理论和工具，并运用经济学模型和方法来了解和分析现实生活中的各
+
+种经济现象和问题。课程内容包括消费者理论，  需求曲线，生产者理论，供给曲线，局部均衡，一般均衡，
+
+非竞争性市场，博弈论，外部性和公共品，信息不对称等。 
+
+ 
+00510473 经济思想史 
+
+ 
+
+3 学分 
+
+48 学时 
+
+History of Economic Thoughts 
+
+西方经济思想的产生和演变过程，各种经济学理论和方法之间的传承、交织与分岐，经济学与人类其他领
+
+域的交互影响。 
+
+ 
+00510483 中级宏观经济学  
+
+Intermediate Macroeconomics 
+
+3 学分 
+
+48 学时 
+
+宏观经济学是经济学中最具有争议，最为紊乱，但也最具有兴奋点的学科。本课程将向您介绍经济学家们
+
+是如何思考诸如通货膨胀，失业和经济危机等一系列宏观经济问题；与此同时，经济学家们又是如何看待
+
+利用宏观经济政策来解决这些问题。我们发现，经济学家们会给出不同的答案。然而，在不同答案背后，
+
+则是不同框架的宏观经济理论体系。 
+
+ 
+00510493 产业组织理论 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Theory of Industrial Organization 
+
+Industrial Organization  (IO)  is  the  sub-field of microeconomics  that  studies  firm behaviour and  strategy  in market 
+
+competition,  as well  as  the  induced  industry  characteristics. Not  only  useful  for  economists,  the  theory  of  IO  also 
+
+provides  the  basic  theoretical  framework  for  researchers  and  practitioners  in  many  other  business  subjects, 
+
+including  corporate  finance  (e.g. merger  and  acquisition), marketing  (e.g.  pricing)  and  strategic management  (e.g. 
+
+competitiveness analysis).   
+
+The  first  part  of  this  course  introduces  monopoly  market  and  discusses  pricing  strategies  of  single-product  and 
+
+multi-product  monopolists.  In  the  second  part,  we  introduce  interaction  among  firms  and  discuss  oligopolistic 
+
+market, where we use game theory to analyze firm competition, product differentiation, market entry and collusion 
+
+among  firms.  The  third  part  focuses  on  horizontal  and  vertical  relationships  among  firms,  and  studies  mergers, 
+
+integration,  as well  as  the  closely-related  antitrust  policy  framework.  In  the  last  part, we  discuss  special  topics  of 
+
+recent developments in IO theory and “hot” topics in real-life industrial economy, including two-sided markets (e.g. 
+
+credit  card  market),  platform  and  network  industries,  etc  (e.g.  telecommunication,  online  trading,  and  social 
+
+networking platforms). 
+
+Industrial Organization  (IO)  is  the  sub-field of microeconomics  that  studies  firm behaviour and  strategy  in market 
+
+competition,  as well  as  the  induced  industry  characteristics. Not  only  useful  for  economists,  the  theory  of  IO  also 
+
+provides  the  basic  theoretical  framework  for  researchers  and  practitioners  in  many  other  business  subjects, 
+
+including  corporate  finance  (e.g. merger  and  acquisition), marketing  (e.g.  pricing)  and  strategic management  (e.g. 
+
+competitiveness analysis).   
+
+The  first  part  of  this  course  introduces  monopoly  market  and  discusses  pricing  strategies  of  single-product  and 
+
+multi-product  monopolists.  In  the  second  part,  we  introduce  interaction  among  firms  and  discuss  oligopolistic 
+
+market, where we use game theory to analyze firm competition, product differentiation, market entry and collusion 
+
+among  firms.  The  third  part  focuses  on  horizontal  and  vertical  relationships  among  firms,  and  studies  mergers, 
+
+integration,  as well  as  the  closely-related  antitrust  policy  framework.  In  the  last  part, we  discuss  special  topics  of 
+
+recent developments in IO theory and “hot” topics in real-life industrial economy, including two-sided markets (e.g. 
+
+credit  card  market),  platform  and  network  industries,  etc  (e.g.  telecommunication,  online  trading ,  and  social 
+
+networking platforms). 
+
+ 
+
+00510513 计量经济学 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Econometrics 
+
+讲授经典单方程、联立方程计量经济学模型理论方法，生产函数、需求函数、消费函数、投资函数等单方
+
+程应用模型和宏观经济模型。 
+
+ 
+00510523 公共财政学 
+
+Public Finance 
+
+ 
+
+3 学分 
+
+48 学时 
+
+公共财政学是一门应用经济学，即公共部门或政府部门经济学，研究政府部门如何履行职能和高效率提供
+
+公共产品和公共服务的行为，具体包括公共财政职能、公共收入制度、公共支出制度、国家预算和财政体
+
+制以及公共财政政策。 
+
+ 
+00510563 货币银行学 
+
+Money and Banking 
+
+ 
+
+3 学分 
+
+48 学时 
+
+讲述货币银行学的基本内容与动态，具体包括：货币制度、银行管理与监管、信用与金融市场、金融创新、
+
+金融危机、货币供给、货币需求、利率的决定理论、货币政策、通货膨胀的起因与防治。 
+
+ 
+00510573 劳动经济学 
+
+Labor Economics 
+
+ 
+
+3 学分 
+
+48 学时 
+
+内容包括劳动力市场的供给，需求和流动，工资的决定机制与差别，就业与收入的宏观调控，中国劳动力
+
+市场的特点及发展趋势，等等。 
+
+ 
+00510583 发展经济学 
+
+Developmental Economics 
+
+ 
+
+3 学分 
+
+48 学时 
+
+介绍发展经济学的主要理论成果，分析发展中国家的经济特征，探讨发展中国家（特别是中国）的发展问
+
+题和应该采取的发展政策。 
+
+ 
+00510602 创业训练营 
+
+Entrepreneurship Camp 
+
+ 
+
+2 学分 
+
+32 学时 
+
+这是一个实践课程，由对创业感兴趣的各院系学生共同组成团队，完成一个实际创业项目的调查、分析等
+
+计划准备工作。本课程强调“干中学”，参与的学生应当准备花大量时间于客户调查和专家访谈等实践活动
+
+之中。 
+
+ 
+00510624 计量经济学导论  
+
+Introduction to Econometrics 
+
+4 学分 
+
+64 学时 
+
+本课程是针对经济学双学位学生开设的学科基础性课程。主要包括：概率论基础、统计学基础以及线性代
+
+数基础。 
+
+ 
+00510643 金融学原理 
+
+Principles of Finance 
+
+ 
+
+3 学分 
+
+48 学时 
+
+本课程将向学生介绍金融理论的基本原理和发展。课程内容包括：财务决策和金融原理；资产评估；利率
+
+理论；组合理论；资产定价模型；公司财务介绍。 
+
+ 
+00510653 环境与资源经济学 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Environmental and Resource Economics  
+
+本课程是环境与资源经济学的入门课程，主要介绍了环境与资源经济学的基本理论、及其如何应用于实际
+
+生活中的环境与资源问题，以及相关的政策分析。本课程由四个部分组成，第一部分介绍环境与资源经济
+
+学的基本原理，包括外部性、公共物品等基本概率的介绍，以及费用效益分析；第二部分着重介绍环境经
+
+济学，例如污染控制的经济学分析，环境评估，地区与全球空气污染，气候变化、后京都气候谈判等内容；
+
+第三部分介绍自然资源经济学，包括可更新与不可更新资源；最后介绍可持续发展，经济增长与环境的关
+
+系，绿色核算等等。 
+
+ 
+00510663 管理学（商学导论）   
+
+Business 101 
+
+3 学分 
+
+48 学时 
+
+本课程运用案例分析与行动学习的方式，来引导学生观察、理解商业世界、企业经营的基本逻辑，对企业
+
+的创立、成长、挫折、持续成功等有更深入的了解，并对企业管理的各类工作组成——如战略、组织、领
+
+导、创新、营销、运作、投资、并购、信息管理、国际管理等建立初步认识。 
+
+ 
+00510673 战略管理 
+
+ 
+
+Strategic Management 
+
+3 学分 
+
+48 学时 
+
+本课程主要向工商管理专业第二学位同学系统讲授战略管理的基本概念、框架体系、演进脉络和实践应用
+
+工具与方法。内容包括战略分析、战略选择、战略实施等。注重理论与实务相结合，强调运用案例分析。 
+
+ 
+00510683 营销管理 
+
+ 
+
+Marketing Management 
+
+课程教学目标： 
+
+3 学分 
+
+48 学时 
+
+在全球化的大环境中，面对日益激烈的市场竞争，企业越来越需要通过制定前瞻性的营销战略，建立高效
+
+的营销体系以及卓越管理执行过程来获得长期的竞争优势。本课程围绕这个主题，通过课堂讲授、案例讨
+
+论、期末考试等形式实现以下 3 个教学目标：1，使第二学位本科生树立市场营销的观念，了解和熟悉营销
+
+管理的理论、方法和分析框架；2，使学生认识市场营销在企业中的角色地位，基本了解市场营销与其它管
+
+理职能的关系。3，使学生初步了解市场营销领域的前沿学术研究。           
+
+课程主要教学内容： 
+
+本课程首先讨论营销观念的演化过程以及新环境下营销模式的进化，并讨论建立顾客满意、顾客价值和顾
+
+客关系的重要性。其次，讨论建立市场导向的营销战略计划的内容和步骤，并主要从顾客行为分析和竞争
+
+者行为分析来探讨营销环境分析的方法和步骤。第三，从市场细分、目标市场和市场定位的角度讨论开发
+
+营销战略的内容、方法和步骤。第四，讨论在营销战略的指导下如何建立有效的 4P 组合(产品、定价、分
+
+销和促销)策略。最后，讨论如何建立高效营销体系的方法和步骤以及初步了解市场营销领域的学术研究前
+
+沿。 
+
+ 
+00510692 信息管理 
+
+ 
+
+Information Systems 
+
+2 学分 
+
+32 学时 
+
+本课程旨在让学生对于信息技术（IT）/信息系统（IS）在企业中的应用有相对深入的了解和认识。课程同
+
+时也会安排相应时间，让学生对于一些基本 IT/IS 有实际学习和操作的机会。学生主要通过本课程： 
+
+1.  理解当下相关 IT/IS 在国内和国际范围内的基本概念和应用； 
+
+2.  综合运用基本商业概念，模型，和理论（如营销，战略等领域），分析具体商业环境对于相关 IT/IS 在
+
+企业中的应用和影响； 
+
+3.  在小组作业中，深入思考和理解相关 IT/IS 和对应商业环境的相互作用和影响； 
+
+4.  发现和分析相关 IT/IS 在企业中应用的重要管理问题，如全球化，企业社会责任，等。   
+
+ 
+00510703 公司金融 
+
+ 
+
+Corporate Finance 
+
+3 学分 
+
+48 学时 
+
+金融决策是企业日常经营活动的一部分，同时也为公司的重大经营决策提供决策依据。本课程是本科管理
+
+学双学位的学生所开设的，因此立足于企业管理视角，旨在帮助学生从价值创造的角度理解企业的金融决
+
+策。 
+
+公司金融的主要内容包括五部分：（1）公司金融综述；（2）价值与资本预算；（3）风险；（4）资本结构与
+
+股利政策；（5）长期融资。 
+
+通过本课程的学习，学生应当： 
+
+（1）  了解公司金融决策的基本内容以及公司金融决策与金融市场之间的关系； 
+
+（2）  掌握公司金融决策的基本原理以及分析方法； 
+
+（3）  能够运用分析模型对企业投融资活动进行分析，提出解决方案。 
+
+ 
+
+00510712 领导力开发 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Leadership 
+
+本课程分五个模块： 
+
+模块 1：领导力开发的哲学思考。 
+
+模块 2：情商与影响力，提出了通过提升情商来缔造影响力的具体路径，培养团队领导力，实现自己与他
+
+人的和谐。 
+
+模块 3：领导力模型，本模块研究到目前为止出现的给类领导力模型。 
+
+模块 4：以价值观为本，针对以人为本存在的困惑，提出通过凝聚价值观比较一致的人，把组织打造成一
+
+个实现各方价值的平台，培养组织领导力，实现个人同组织的和谐。 
+
+模块 5：阳光心态，通过综合运用儒释道古今中外各学科的相关研究成果，提出建立与环境相适应的积极
+
+心态的原理。培养个人领导力，建立强大的心力，实现自己与自己的和谐 
+
+00510722 组织行为学 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Organizational Behavior 
+
+根据管理大师德鲁克的说法，管理就是通过别人并和别人一起实现组织目标。作为管理者，为了更好地达
+
+成对人的管理，就有必要对人的心理和行为规律加以认识和利用。组织行为学就是研究组织中人的心理和
+
+行为规律，从而提高管理者对本组织成员心理和行为规律的认识、预测及在此基础上的引导和控制能力，
+
+以便更有效实地现组织目标的学科。 
+
+        组织行为学的内容，包含个体、群体与组织系统三个层面。具体而言，个体层次的行为，主要涉及个
+
+体的能力、人格、态度、动机、价值观等；群体层面的行为，涉及群体动力、团队、领导、决策与冲突等；
+
+组织系统层面的内容涉及组织结构与设计、组织文化、组织变革等。 
+
+        授课方式，主要有老师讲解、案例讨论、课堂练习、课后作业等。强调学生的课堂参与。 
+
+ 
+00510732 推动创新的知识产权战略 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Driving Innovation: Intellectual Property Strategies  
+
+本课程以全新的思路和框架，讲授创新型企业如何创造和运用知识产权，通过知识产权战略推动创新并实
+
+现创新的价值最大化。通过讲课，主要讲授知识产权的基本知识和企业的知识产权战略，包括授权战略、
+
+标准化战略、资本化战略等等；并通过案例讨论及外请嘉宾演讲等，进一步加深和拓展对知识产权战略的
+
+理解及其在创新、创业中的重要作用，了解知识产权市场、创业企业的知识产权估值、授权协议谈判、中
+
+国知识产权保护的特点等专门知识。课程得到了清华 x-lab 知识产权中心（IP Center）的多方面的支持。通
+
+过这门课，学生能够掌握知识产权的基本知识，并以此为基础，进一步了解基于知识产权的创新、创业战
+
+略。同时，通过案例讨论和学生展示，提高学生的综合分析能力和表达能力。 
+
+ 
+00510742 运作管理 
+
+ 
+
+Operations Management 
+
+2 学分 
+
+32 学时 
+
+本课程为关于“生产与运作管理”的基础性介绍课程。本课程计划讲授以下几个方面的内容：  1）企业战
+
+略及竞争；  2）产品与服务设计；  3）  运作计划，管理，及控制：  包括库存管理，选址问题，MRP，JIT
+
+等等，  4) (根据具体课程需求和进度)  质量控制 
+
+ 
+00510801 创新创业 
+
+ 
+
+1 学分 
+
+16 学时 
+
+Entrepreneurship and Innovation 
+
+课程包含讲座和实践两部分。（1）讲座的形式主要有一对一的嘉宾访谈，或由多名行业资深创业家、企业
+
+家参与的行业 Panel。讲座的内容主要涉及成功创新创业个人的故事，成功创新创业的共性，创新创业生态
+
+环境的状况，创新创业热点的互动碰撞，在大企业内部开创革命性创新业务的经历，提升创新创业领导力
+
+的方法等。配合实践环节的项目，能够摸索适合自己职业发展的方向、提升相关能力、与业内人士接触接
+
+受辅导，从而了解行业信息、明确职业方向、搭建人脉。（2）实践包括  1.  创新企业实践：互联网/移动互
+
+联网/硬件的产品设计开发、产品运营、互联网营销、新媒体制作、线下活动组织、品牌建立、产品推广、
+
+筹款合作等。  2.  创新创业经验与方法：邀请新兴创业企业的创始人分享创业经验智慧、行业洞察远见。  3. 
+
+企业游学与合作：向企业导师汇报问题解决方案以及执行情况，商讨与企业合作项目。企业可考察每参与
+
+实践的同学能力，同时为项目执行提供建议；或者参与合作项目共同策划，支持与辅导。   4.  项目成果总
+
+结：部分同学对本学期的项目执行成果进行汇报展示，企业导师与创业导师给出评价。项目的执行结果与
+
+导师评价作为日后对同学在校期间能力的参考，其中优秀的同学有机会被推荐到企业。 
+
+ 
+10510064 实分析 
+
+Real Analysis 
+
+ 
+
+4 学分 
+
+64 学时 
+
+实变函数的核心是测度和积分的理论，它是近代分析数学领域的基础知识；数学分析主要的考察对象是定
+
+义在区间上的连续函数，实变函数则把研究对象扩大到可测集合上的可测函数，并运用集合论的观点对函
+
+数及其定义域作更加细致的剖析。这就使得实分析处理问题方法更加活跃，可使微积分在比较宽松的环境
+
+中加以运用，其结果也就更加深入和具有多样性；本课程以 n 维欧氏空间为基地，重点介绍 Lebesgue 测度
+
+和积分，主要内容有：集合与点集；Lebesgue  测度；可测函数；Lebesgue  积分。 
+
+ 
+10510072 中文写作 
+
+ 
+
+Chinese Writing 
+
+2 学分 
+
+32 学时 
+
+本课是经管学院本科生公共必修课，授课内容包括写作基本知识与实用文体写作知识两大部分。写作基本
+
+知识部分，主要讲授写作的涵义、性质，写作观念的变更、写作应关注的学科、写作的形态、要素、过程、
+
+写作的评价角度与标准、写作者应该具备的能力以及提高写作水平的途径等 10 项内容；实用文体写作部分，
+
+主要讲授经济信息类文章写作、说明类文章写作、总结类文章写作、调研类文章写作以及论证类文章写作
+
+等 5 项内容。 
+
+ 
+10510082 中文沟通 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Communication in Chinese 
+
+教学采用讲授、讨论、案例及案例录像、模拟实践、自评、互评、师评等互动教学形式。课程重在学以致
+
+用，故设有理论学习，实践分析，经验分享等诸多环节，旨在帮助学员了解和掌握沟通基础理论和有效沟
+
+通策略及技巧；学习并掌握沟通的分析模型，并能学以致用。   
+
+ 
+
+10510103 西方文明 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Western Civilization 
+
+本课程分专题讲授西方文明体现于思想、文化、制度等方面的重大成就和遗产。 
+
+ 
+10510112 中国与世界：法律传统 
+
+ 
+
+2 学分 
+
+32 学时 
+
+China and the World: Legal Traditions  
+
+介绍中国和西方主流国家的法律体制和他们的来源，并介绍法律制度对文明演化过程的影响。 
+
+ 
+10510123 中国文明 
+
+ 
+
+Chinese Civilization 
+
+3 学分 
+
+48 学时 
+
+通过详尽讲解儒家文化的十五个关键字（学、孝、仁、义、礼、知、信、乐、谦、心、忠、恥、和、德、
+
+公），介绍中国传统文化的核心理念。 
+
+ 
+10510134 概率论与数理统计 
+
+ 
+
+4 学分 
+
+64 学时 
+
+Probability and Mathematical Statistics 
+
+这门课程主要为有一些概率论背景的二年级的本科学生设计。 
+
+这门课程主要为有微积分和线性代数等数学背景的二年级本科学生设计。我们主要介绍概率论和数理统计
+
+的基本原理和方法，并展示概率论和统计学在经济商业及别的领域中的广泛应用。 
+
+课程内容主要由两部分构成，即概率论部分和数理统计部分。在概率论部分，我们将会介绍随机变量，随
+
+机分布等关键概念，以及一些典型的概率模型如泊松分布正态分布等。随后我们会讲授关于随机分布的一
+
+些总结性指标如期望，方差等等，以及作为大样本性质的理论基础的大数定律和中心极限定理。在数理统
+
+计部分，我们将介绍描述性统计和推断性统计。对于前者，我们主要强调数据的收集以及分类，和利用图
+
+形方法来总结数据中的基本信息。在推断性统计部分，我们将讲授点估计/区间估计和假设检验方法，以及
+
+常见的方差分析模型，线性回归模型和逻辑回归模型中的统计推断。所有的方法论都将通过诸多实例/案例
+
+来介绍。我们主要用 Excel 或者 R 作为统计分析的软件。 
+
+每周都将有作业布置，并设置了一个期中考试和一个期末考试。我们期望通过此门课程，学生们能学会用
+
+统计学家的视角去分析应用当中的实证问题。同时，我们也鼓励学生们在统计软件上练习学习到的各种方
+
+法。 
+
+每周都将有作业布置，并设置了一个期中考试和一个期末考试。我们期望通过此门课程，学生们能学会用
+
+统计学家的视角去分析应用当中的实证问题。同时，我们也鼓励学生们在统计软件上练习学习到的各种方
+
+法。 
+
+ 
+10510152 中外艺术史 
+
+ 
+
+2 学分 
+
+32 学时 
+
+History of China and Foreign Art 
+
+以专题形式较为全面的讲授中外艺术史线索，及重要艺术作品的鉴赏。 
+
+ 
+10510173 批判性思维与道德推理 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Critical Thinking and Moral Reasoning 
+
+日常生活中，人们随时都会遇到伦理问题。许多政治、经济、社会问题的解决也往往涉及伦理选择，需要
+
+相应的批判性思维与道德推理。但是，人们常常简单化（不是简化）、粗暴（思维上的暴力）地看待伦理问
+
+题，忽视对其进行批判性思考；表现为盲目地接受某些道德教条，却缺少起码的必要追问其背后的原则、
+
+逻辑是否正当、合理，堕落为恶劣政治意识、极端化伦理观的俘虏。 
+
+本门课程，重在培养学习者的批判性思考，可以深入浅出，可以由小见大，可以举一反三。思考本身就是
+
+课程的最重要的目的，而不是某些答案，或者某个理论。看似简单的思考，最难的，也是最需要的就是形
+
+成“下意识的”习惯，成为你的品格、风格的一部分。要认真负责地工作与生活，首先要认真负责地对看
+
+似简单的道德问题进行深刻的探究与思索，古往今来，许多思想家、领导者，都曾经这样做过。 
+
+许多大家熟视为当然的现象，背后却引藏着令人足以深思的议题。借着对这些引起争议作为的理解，我们
+
+可以深入了解社会的实际现象，以及未来可能的发展。课程的设计也很希望你在经过这个学习之旅后能够
+
+更知道如何面对这些现象，更理性地进行价值选择。因此，这门课绝非商学院中司空见惯的商业伦理课程，
+
+而是一门学习在社会中思考、生活的课程。 
+
+ 
+
+10510184 概率论与数理统计（社科类） 
+
+ 
+
+4 学分 
+
+64 学时 
+
+Introductory Probability and Statistics 
+
+当今社会商业竞争日益激烈，有效做出商务决策变得至关重要。本课程从实际的商业问题出发，详细阐述
+
+如何利用数据进行信息决策，并将统计概念与实际问题联系起来，告诉学生如何从数据中寻找模式、建立
+
+统计模型，以及如何提供调查结果。课程将首先介绍常见的数据来源及数据形态，及如何对数据包含的信
+
+息进行有效的图表展示。接下来，我们会简单介绍常用统计方法的概率模型及相关的基础概率论知识。进
+
+一步，我们将从实用的角度介绍统计建模的思想要素，以及如何利用统计模型进行决策分析，如估计、预
+
+测及检验等。我们将遵循由简至复的原则，先讲述涉及单一变量的统计分析，再到涉及双变量的比较分析，
+
+以及涉及多个变量的方差分析及线性回归等。我们的课程涵盖常用统计方法在当代商务经济领域中的诸多
+
+的重要应用，并且将统计软件（Excel 及相关组件等）的使用贯穿全部课程。 
+
+ 
+20510032 工程经济学 
+
+Engineering Economics 
+
+ 
+
+2 学分 
+
+32 学时 
+
+内容包括投资、成本与利税等现金流量构成要素，资金等值计算，经济效益评价方法、方案比选方法和不
+
+确定性分析方法，投资项目可行性研究，财务评价及可持续发展评价，技术创新、价值工程、设备更新等
+
+专题。 
+
+ 
+20510082 计算机网络 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Computer Network 
+
+This  course  provides  a  comprehensive  introduction  to  the  concepts  and  principles  about  data  communication  and 
+
+computer  networking, 
+
+including  related  architectures,  protocols, 
+
+technologies,  hardware,  software,  and 
+
+applications. Emphasis is put upon the requirement analysis and design of networking applications in  organizations, 
+
+while  topics  such  as  management  of  communications  networks,  cost-benefit  analysis,  and  evaluation  of 
+
+connectivity  options  are  covered,  so  as  to  help  students  learn  to  evaluate,  select,  and  implement  different 
+
+communication options within an organization. 
+
+ 
+20510102 计算机语言 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Computer Programming Language 
+
+主要内容包括三个主要部分：C 语言基础概念；结构化程序设计；高级程序设计。第一部分讲授了计算机
+
+语言的基本概念、C 语言编程环境简介、基本数据类型及其运算、基本语句与数据输入/输出、数组和字符
+
+串等。第二部分主要讲授了分支结构程序设计、循环结构程序设计、函数和模块化设计、调试与排错、以
+
+及结构化程序设计的基本思路。第三部分主要讲授编译预处理、复合数据类型结构体、文件处理、以及可
+
+视化编程的初步概念和方法。 
+
+ 
+30510053 计量经济学 
+
+Econometrics 
+
+ 
+
+3 学分 
+
+48 学时 
+
+This course  is an  introduction  to econometrics. It  introduces students  to multiple regression methods for analyzing 
+
+the relationship between two or more economic variables. It starts from the simple  linear regression to multivariate 
+
+regression,  regression  with  discrete  random  variables,  instrumental  variables,  and  to  regression  with  panel  data, 
+
+time series data. The objective  is to help students understand, evaluate and conduct empirical studies in economics 
+
+and related disciplines. 
+
+ 
+30510073 公共财政学 
+
+Public Finance 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Public  Finance  studies  the  role  of  the  public  sector  in  the  economy.  In  this  course,  we  will  study  the  economic 
+
+foundations  that  justify  the  existence  of  the public  sector,  and  the  economic  theory  that  describes what  the  role  of 
+
+the public sector should be. We concern when the governments should intervene the economy and how they should 
+
+do  so,  including what  options  they  have  and what  are  the  effects  of  the  policies.  The  focus  is  on  the  government 
+
+taxes  and  spending  activities.  We  will  also  look  at  the  governments’  policies  in  the  reality,  and  study  how  the 
+
+policies affect individual and corporate decision-making and welfare. 
+
+ 
+30510123 会计学原理 
+
+Accounting Principles 
+
+ 
+
+3 学分 
+
+48 学时 
+
+课程以西方财务会计为主线，其主要内容涉及会计的基本概念、会计假设和会计原则、复式记账的原理和
+
+方法、财产的设置及会计循环、主要经济业务的会计处理、公司会计、财务报表的编制与分析。涉及的主
+
+要会计方法是：应收帐款的总价法、净价法、票据贴现、成本与市价孰低法等。 
+
+ 
+30510202 管理信息系统 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Management Information Systems  
+
+I.  Introduction  1.1  Job  titles  1.2  Information  technology  skills  1.3  Course  outline  I.  Information  Technology  in 
+
+Business 2.1  IT  fusion 2.2  Information  systems 2.3  Information management  III. Gaining Competitive Advantage 
+
+with  IT  3.1  Supply  chain management  and  ERP  3.2  Customer  relationship management  3.3  Business  intelligen ce 
+
+Lab  study:  SAP  ERP  Case  study:  Digital  China  IV.  Data  Modeling  4.1  Conceptual  modeling  4.2  Logical  ties 
+
+within  information  4.3  Data  integrity  V.  Knowledge  Discovery  for  Decision  Support  5.1  Types  of  business 
+
+knowledge  5.2  Data  mining  tools  5.3  Discovering  association  rule  Lab  study:  Business  Objects#VI.  Information 
+
+Analysis  in Decision Making#6.1 Optimal  decisions#6.2 Alternative  decisions#6.3 Decision  scenarios#Exercises: 
+
+Office  tools#VII.  Systems  Development#7.1  Insourcing  and  the  systems  development  l ife  cycle#7.2  Business 
+
+modeling:  an  object-oriented  perspective#VIII.  IT Management#8.1  Roles  of  CIO#8.1  Outsourcing#8.2  Business 
+
+continuity#Case  study:  CSC  and  General  Dynamics#Lab  study:  EMC2#IX.  Emerging  Fields  and  Economic 
+
+Issues#9.1  Management  of  uncertain  and  imprecise  information#9.2  Re-birth  of  e-Commerce#9.3  Information 
+
+goods 
+
+ 
+30510273 数据结构 
+
+ 
+
+Data Structure 
+
+3 学分 
+
+48 学时 
+
+Now  we  are  in  an  Information  era, which  roots  on  a  basic  fact  that,  Information  Technology  (IT)  has  deeply  and 
+
+widely  reshape  almost  every  areas,  e.g.,  production,  operation,  business,  society  and  personal  life. One  important 
+
+characteristic  of  information  era  is  storing,  representing  and  processing  of  large-scaled  structural  data.  How  to 
+
+represent and process large-scaled data is the key factor not only for information systems construction, but also for 
+
+organizations  to  gain  competitive  advantages.  This  course  will  focus  on  constructing  effective  data  models  using 
+
+standard  data  structures  as  well  as  efficient  processing,  which  will  cultivate  the  students  with  the  abilities  of 
+
+efficient data modeling and data processing. 
+
+The course contents include: 
+
+a) 
+
+Introduction to Data Structures and Analysis; 
+
+b)  Analysis on Computational Complexity;  
+
+c) 
+
+List, Stack and Queue; 
+
+d)  Binary Trees; 
+
+e)  Graphs and Network; 
+
+f) 
+
+g) 
+
+Search; 
+
+Sorting; 
+
+h)  New tech. 
+
+By the end of the course, the students should: 
+
+1.  Master the major data structures and efficient processing based on C programming;  
+
+2.  Master the preliminary abilities to model and analyze some real-world applications. 
+
+3. 
+
+Cultivate the ability for further information analysis, design and implementation. 
+
+To  accomplish  this  global  goal,  lecturing  is  far  from  enough;  case  programming  and  analysis,  assignment  and 
+
+Q&A are also important. 
+
+ 
+
+30510283 数据库原理及应用 
+
+ 
+
+3 学分 
+
+48 学时 
+
+The Principle and Application of Database  
+
+本课程的主要内容包括数据库系统的基本概念、组成和发展历史,各种数据模型的特点;关系模型的数据结构
+
+和以关系代数为代表的操作方法,关系数据库标准语言 SQL,  关系数据库的规范化理论和方法;数据库的事
+
+务管理、并发控制、安全保护措施以及数据库的恢复技术,数据库的设计理论,以及数据库应用系统的开发步
+
+骤和典型方法。 
+
+ 
+30510332 系统分析与设计  
+
+System Analysis and Design 
+
+2 学分 
+
+32 学时 
+
+介绍信息系统的地位和作用、信息系统的规划、分析、设计方法 (以原型法、生命周期法为主)、信息系统
+
+建设中存在的问题及其解决方法等。《系统分析与设计》课程本是一门以技术为主，管理为辅的课程。考虑
+
+信息管理与信息系统专业的本科生已经掌握了一些必需的知识和技能，因此在课程教学过程中会将本着“观
+
+念第一，技术第二”的原则引入系统分析与设计的方法，帮助同学们在观念上掌握信息系统应用的主要思
+
+想，在此基础上掌握信息系统开发的主要方法，并学会如何利用现有的方法组织开发合适的信息系统。 
+
+ 
+30510393 审计学(1)   
+
+Auditing(1) 
+
+3 学分 
+
+48 学时 
+
+The  course  is  designed  to  provide  the  student  with  insight  about  auditing:  what  it  is,  why  it’s  important,  what  it 
+
+entails, and why users of financial statements should care about it. Its is an introduction to the audit function, audit 
+
+standards,  objectives  and  procedures,  ethical  and  legal  environment,  materiality  and  audit  risk,  sampling,  and 
+
+reporting. 
+
+ 
+30510403 审计学(2)   
+
+Auditing(2) 
+
+3 学分 
+
+48 学时 
+
+本课程是在学生掌握了基本的审计理论基础上提供其他一些扩展性的知识，比如其他注册会计师业务与服
+
+务、审计师的职业道德与法律责任、以及内部审计、公共部门审计和舞弊审计的基本概念。 
+
+ 
+30510523 货币银行学 
+
+Money and Banking 
+
+ 
+
+3 学分 
+
+48 学时 
+
+This course presents basic concepts and theories in monetary and banking economics. Topics covered in the course 
+
+include:  the  structure  of  financial  system,  financial market  and  financial  institutions,  definition  of money  and  role 
+
+of  bank,  Money  supply  and  demand,  interest  rate  such  as  the  determination  of  short -term  interest  rates  and  the 
+
+structure  of  interest  rate,  and  exchange  rate  and  determination  of  exchange  rate  including  PPP,  IRP,  monetary 
+
+approach, asset approach, and monetary policies. 
+
+This course presents basic concepts and theories in monetary and banking economics. Topics covered in the course 
+
+include:  the  structure  of  financial  system,  financial market  and  financial  institutions,  definition  of money  and  role 
+
+of  bank,  Money  supply  and  demand,  interest  rate  such  as  the  determination  of  short -term  interest  rates  and  the 
+
+structure  of  interest  rate,  and  exchange  rate  and  determination  of  exchange  rate  including  PPP,  IRP,  monetary 
+
+approach, asset approach, and monetary policies. 
+
+ 
+30510643 会计信息系统 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Accounting Information System 
+
+Application  of  information  systems  (IS)  has  become  the  necessary  weapon  for  enterprises  to  improve  business 
+
+processes,  enhance  management  effect,  innovate  business  models  and  build  up  core  competitiveness.  Also,  IS 
+
+application  brings  huge  challenge  to  every  aspects  of  business  organizations.  Accounting  is  generally  concerned 
+
+with  the  identification,  collection,  processing,  analysis  and  communication  of  economic  information  about  an 
+
+organization.  Accounting  information  systems  (AIS)  is  the  important  part  of  IS.  Accounting  departments  and 
+
+accounting professionals are facing the big opportunity and challenge of contemporary IS application.#This course 
+
+introduces  the main content of AIS  from  the  technical and managerial points of view.  It  consists of 4 parts. Part 1 
+
+introduces AIS  concepts  and  tools,  including  introduction  to AIS,  business  processes  and  AIS  data,  documenting 
+
+AIS,  and  identifying  risks  and  controls  in business  processes. Part  2  introduces  the  components of AIS,  including 
+
+database management methods and software systems, design of accounting data, queries & reports, and forms. Part 
+
+3  introduces  fundamental  business  processes  combined  with  utilization  of  an  AIS  software  system,  incl uding  the 
+
+purchase/payment  cycle,  sale/reception  cycle  and  financial  cycle,  etc.  Part  4  covers  two  special  topics  on  IS 
+
+application. One is about IS application and evolution in enterprises, the other is managing and controlling IS.  
+
+ 
+30510663 经济学原理 
+
+Principles of Economics 
+
+ 
+
+3 学分 
+
+48 学时 
+
+内容包括：引论，需求和供给，消费者行为，企业和产业组织，公共部门，重量市场，长期的实经济，货
+
+币的作用，短期经济波动，开发经济的宏观经济学，经济发展与改革。 
+
+ 
+30510702 商法原理与实务  
+
+2 学分 
+
+32 学时 
+
+The Theory and Practice of Business Law  
+
+本课程旨在用英文向学生传授在中国内地从事商业活动所必需的法律知识。涉及话题包括但不限于：商业
+
+组织形态及选择，不同商业组织的控管结构，法律对注册资本的要求，商业组织名称及其权利的取得与保
+
+护，与之相关的商标和域名的法律保护和纠纷解决；商业合同的缔结和纠纷解决；内地民事诉讼和商事仲
+
+裁；消费者权益保护；劳资关系和劳工保护。除采取讲授方式外，还要求学生进行法律文献和案例的阅读，
+
+小组分析和课堂讨论。模拟审判，个人书面报告也是必需的。 
+
+ 
+30510732 管理学原理 
+
+General Management 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Organizations are all around us  in  society: we  study  in  them, work  for  them,  rely on  them  for goods and  services, 
+
+and  we  are  often  regulated  and  highly  influenced  by  them.  Understanding  the  management  of  organizations, 
+
+therefore, is the key to becoming more effective actors of the organizations we are or will be part of. We will cover 
+
+three  traditional  functions  of  management:  planning,  organizing,  and  leading.  Overall,  this  course  offers  a 
+
+comprehensive perspective for those interested in management and organizations.   
+
+By the end of the course, you will achieve the following:  
+
+ 
+
+ 
+
+ 
+
+Be familiar with key principles of management and organizations 
+
+Develop analytical skills in the diagnosis of organizational & managerial (in)effectiveness  
+
+Be able to apply basic principles of management to real-world practices 
+
+ 
+30510743 中级微观经济学  
+
+Intermediate Microeconomics 
+
+3 学分 
+
+48 学时 
+
+The  course  presents  basic  theories  of  microeconomics  and  its  applications.  Topics  covered  include  consumer 
+
+theory, firm  theory, market supply  and demand, externality and public goods,  industrial organization, game  theory, 
+
+information  economics,  and  general  equilibrium.  The  economic  modeling  methods  and  analytical  tools  are 
+
+emphasized throughout the course. 
+
+ 
+30510763 中级宏观经济学  
+
+Intermediate Macroeconomics 
+
+3 学分 
+
+48 学时 
+
+We  will  study  the  economic  issues  within  a  unified  framework  as  possible  as  we  can.  At  the  same  time,  we  will 
+
+also  try  to  introduce  alternative  theories  and  models.  The  main  purpose  is  to  introduce  the  method  to  study 
+
+macroeconomics,  not  the  facts  and  the  theories.  We  emphasize  the  micro-foundation,  and  use  the  neoclassical 
+
+economics  as  the  benchmark.  Nevertheless,  we  also  introduce  the  Keynesian  economics  by  introducing  some 
+
+market imperfections such as sticky wage and search in labor market. #We will start with the basic facts and issues 
+
+in  macroeconomics.  Then  we  will  introduce  the  modern  approach  to  address  these  issues.  We  will  study  how 
+
+different  markets  work  together  in  general  equilibrium.  Markets  for  labor,  saving  and  investment,  an d  financial 
+
+assets interact to determine the economy’s long-run growth and its fluctuations. 
+
+ 
+30510773 运筹学(1)   
+
+Operational Research(1) 
+
+3 学分 
+
+48 学时 
+
+运筹学是应用定量方法研究管理问题的一门科学，其特点是将管理中的问题归结为抽象的数学模型，应用
+
+数学等科学方法找到模型的最优解，为管理决策提供支持。本课程重点讲授管理科学中应用最广泛的线性
+
+规划、整数线性规划、目标规划、决策分析等内容。（1）线性规划主要介绍其建立数学模型的方法，解的
+
+性质定理，图解法，单纯形方法及其原理灵敏度分析，运输问题的特殊解法。(2)整数规划的数学模型，求
+
+解整数规划的割平面方法、分枝定界法，0－1 问题的隐枚举法。（3）目标规划建模的基本思想，图解法、
+
+单纯形法。（4）不确定问题的决策准则，决策方法。风险决策的决策准则，决策树方法。效用理论。 
+
+ 
+30510782 专家系统与决策支持系统 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Expert Systems and Decision Support Systems  
+
+本课程主要介绍专家系统基本概念，专家系统结构，知识搜索方法，各种知识表式方法，各种推理方法，
+
+专家系统中常用的不精确推理方法，专家系统开发过程；决策支持系统的基本概念，系统结构和功能。 
+
+ 
+30510793 运筹学(2)   
+
+Operational Research(2) 
+
+3 学分 
+
+48 学时 
+
+运筹学是应用定量方法研究管理问题的一门科学，其特点是将管理中的问题归结为抽象的数学模型，应用
+
+数学等科学方法找到模型的最优解，为管理决策提供支持。本课程重点讲授管理科学中的非线性规划,动态
+
+规划,图与网络分析,对策论等分支。主要内容为：（1）非线性规划的数学模型、凸函数和凸规划、一维搜索、
+
+无约束极值问题解法。K-T 条件、非线性规划解法。（2）动态规划的最优化原理、基本概念和基本方程。
+
+动态规划的应用举例。（3）图的基本概念、树的基本概念及性质。Euler 问题、Hamilton 问题及中国邮路问
+
+题、货郎担问题。最短路问题、最大流问题、最小费用流问题。网络计划技术。（4）矩阵对策的基本理论、
+
+矩阵对策的解法。 
+
+ 
+30510803 经济学原理(2)   
+
+Principles of Economics(2) 
+
+3 学分 
+
+48 学时 
+
+本课程是完整的经济学原理课程的第二部分。本课分为微观经济学、宏观经济学两大部分。微观经济学以
+
+供求分析为主线，讨论市场运行的基本机制及其福利评价，公共部门经济学，企业行为与产业组织。宏观
+
+部分分别就长期和短期中宏观经济的不同理论及其分析框架进行讲授。 
+
+ 
+30510812 营销管理 
+
+ 
+
+Marketing Management 
+
+2 学分 
+
+32 学时 
+
+Marketing  is  the  core  of  an  operating  business,  and  also  the  management  process  through  which  goods  and 
+
+services  move  from  concept  to  the  customer.  Marketing  is  based  on  thinking  about  the  business  in  terms  of 
+
+customer  needs  and  their  satisfaction.  Marketing  differs  from  selling  because  it  has  less  to  do  with  getting 
+
+customers  to  pay  for  your  product  as  it  does  developing  a  demand  for  that  product  and  fulfilling  the  customer's 
+
+needs.  Marketing  entails  planning  and  executing  the  conception,  pricing,  promotion,  and  distribution  of  ideas, 
+
+goods,  and  services.  It  starts  with  identifying  and  measuring  consumers'  needs  and  wants,  assessing  the 
+
+competitive  environment,  selecting  the  most  appropriate  customer  targets  and  developing  marketing  str ategy  and 
+
+implementation  program  for  an  offering  that  satisfies  consumers'  needs  better  than  the  competition. Marketing  is 
+
+the  art  and  science  of  creating  customer  value  and  market  place  exchanges  that  benefit  the  organization  and  its 
+
+stakeholders. 
+
+The  objective  of  this  course  is  to  introduce  students  to  the  concepts,  analyses,  and  activities  that  comprise 
+
+marketing management, and  to provide practice  in assessing and solving marketing problems. The course  is also a 
+
+foundation for advanced electives in marketing as well as other business/social science disciplines. We will explore 
+
+the  theory  and  applications  of  marketing  concepts  through  a  mix  of  cases,  discussions,  lectures,  guest  speakers, 
+
+individual  assignments,  and  group  projects.  We  will  draw  materials  from  a  variety  of  sources  and  settings 
+
+including services, consumer and business-to-business products. 
+
+ 
+30510833 经济学原理(1)   
+
+Principles of Economics(1) 
+
+3 学分 
+
+48 学时 
+
+主要内容：分为微观经济学、宏观经济学两大部分。微观经济学以供求分析为主线，讨论市场运行的基本
+
+机制及其福利评价，公共部门经济学，企业行为与产业组织。宏观部分分别就长期和短期中宏观经济的不
+
+同理论及其分析框架进行讲授。 
+
+ 
+30510842 信息管理导论 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Introduction of Information Management  
+
+本课程主要信息管理的入门知识 ,力图让学生掌握信息时代必备的基本信息管理技能 .课程分为四个单元,16
+
+学时.第一单元为个人信息管理,第二单元为信息管理的方法与工具,第三单元为企业信息管理初步,第四单元
+
+为信息职业生涯规划. 
+
+ 
+30510863 发展经济学 
+
+Developmental Economics 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Development economics is a course involving economic problems and policies of those countries that have not yet 
+
+reached  the  level  of  economic  well  being  observed  in  the  western  world.    At  the  completion  of  this  course, 
+
+students will be familiar with theories of development and their applications in the real world. Students will have a 
+
+better  understanding  of  a  number  of  topics  that  shed  light  on  the  development  process,  including   poverty, 
+
+inequality,  education,  international  trade,  the  role  of  the  government,  and  population  issues.  Students will  also  be 
+
+trained  to  conduct  their  own  research  by  using  theories  learned  in  class  and  analyzing  real  world  data.  They  will 
+
+also  present  their  research  results  in  class,  which  can  improve  their  ability  of  public  speaking  and  intellectual 
+
+interactions. 
+
+ 
+30510883 经济增长 
+
+ 
+
+Economic Growth 
+
+3 学分 
+
+48 学时 
+
+The  aim  of  the  course  is  to  provide  students  with  a  rigorous  introduction  to  the  empirical  facts  and  theoretical 
+
+models  of  economic  growth.  A  recurring  theme  of  this  course  is  the  question:  “Why  are  some  countries  so  rich, 
+
+while  some  others  are  so  poor?”  To  answer  this  question,  we  will  look  at  various  aspects  of  economic  growth, 
+
+starting  from  some  characteristics  and  stylized  facts  of  different  countries  across  the  world.  We  will  then  study 
+
+some of the main theories and their predictions. Through the study of the course, the students will get familiar with 
+
+the  available  cross-country  data  and  use  different  models  as  a  basis  for  understanding  and  distinguishing  the 
+
+various determinants of economic growth. 
+
+ 
+30510893 财务报表分析 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Financial Statement Analysis 
+
+a) Understand the construction and major elements in financial statements; b) Understand how firm performance is 
+
+analyzed and valued. c) Understand the relevance of cash flow and accounting information.    d) Know how to pull 
+
+apart  the  financial  statements  to  get  the  relevant  information.  e)  Apply  ratio  analysis  in  valuation  and 
+
+decision-marking. 
+
+The objectives of  this course are  to gain a more  thorough understanding of  financial accounting  techniques and  to 
+
+explore  the  accounting  theory  underlying  such  techn iques.  Assets,  revenue  recognition,  and  income  items, 
+
+investments  in  other  companies  and  stockholders’  equity  will  be  covered  in  this  course.  Class  meetings  involve 
+
+lectures, discussions and exercises. Class attendance is required in this class.  
+
+ 
+30510912 商务沟通 
+
+ 
+
+Business Communication 
+
+2 学分 
+
+32 学时 
+
+Business  Communication  is  a  course  training  students  to  be  able  to  deliver  a  presentation  and  submit  a  written 
+
+proposal  efficiently  as  well  as  effectively  in  a  business  context.  The  course  is  delivered  in  English  with  many 
+
+training activities which eventually get students to be an efficient business presenter in English. It helps the learner 
+
+aware  of  the  communication  goals  and  therefore  able  to  apply  the  principles  to  create  an  efficient  and  effective 
+
+business  presentation.  It  also  helps  the  learner  apply  the  communication  principles  to  written  formats  since  the 
+
+written proposals are evaluated as part of the final performance.  
+
+Business  Communication  is  a  course  training  students  to  be  able  to  deliver  a  presentation  and  submit  a  written 
+
+proposal  efficiently  as  well  as  effectively  in  a  business  context.  The  course  is  delivered  in  English  with  many 
+
+training activities which eventually get students to be an efficient business presenter in English. It helps the learner 
+
+aware  of  the  communication  goals  and  therefore  able  to  apply  the  principles  to  create  an  efficient  and  effective 
+
+business  presentation.  It  also  helps  the  learner  apply  the  communication  principles  to  written  formats  since  the 
+
+written proposals are evaluated as part of the final performance.  
+
+ 
+30510942 Java 程序设计 
+
+ 
+
+Java Programming(in English)  
+
+2 学分 
+
+32 学时 
+
+作为信管专业的专业基础课，在学生具备一定的过程化编程能力基础上，介绍面向对象编程基本概念和主
+
+流编程语言－Java。希望学生能掌握应用 Java 语言进行面向对象编程的技能，为后续专业课学习打下良好
+
+基础。 
+
+ 
+30510953 经济思想史 
+
+ 
+
+3 学分 
+
+48 学时 
+
+History of Economic Thought 
+
+本课程将讲授从古希腊到 20 世纪末的重要经济思想。所谓经济思想，是指学者们有意识地对经济问题进行
+
+思考、研究而不断积累起来的思想成果。课程主要内容有：经济思想产生的经济、社会、文化背景；经济
+
+思想的主要内容和政策建议；代表人物的主要思想和活动；经济思想在当时和以后的社会发展中所起的作
+
+用。本课程还将考察经济理论、概念和方法是如何演进的，以及过去的经济思想对当代经济学理论产生了
+
+怎样的影响。学习本课程有助于加深学生对经济学的理解，以及对经济学与社会科学其他分支的关系的认
+
+识。 
+
+ 
+30510962 金融机构 
+
+ 
+
+Financial Institution 
+
+2 学分 
+
+32 学时 
+
+A well-functioning financial system is crucial to economic growth and development as it promotes efficient capital 
+
+allocation,  provides  risk  sharing,  and  reduces  transaction  costs.  This  course  aims  to  help  students  understand  the 
+
+role of the financial system by focusing on its major components: financial markets and institutions. It will discuss 
+
+the  economic  foundations  of  financial markets  and management  of  financial  institutions.  It will  also  introduce  the 
+
+development of China’s financial system and compare it with its U.S. counterpart. 
+
+30510973 计量经济学（1） 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Econometrics(1) 
+
+The purpose of this course is to help students understand how to interpret economic data. It will focus on the issues 
+
+that arise  in using  this  type of data, and the methodology for solving  these problems. The focus of  the course  is on 
+
+regression  analysis.  Specific  topics  and  extensions  will  include  multivariate  regression,  dummy  variables, 
+
+heteroskedasticity,  serial  correlation,  and  instrumental  variables.  Problem  sets will  provide practical  experience  in 
+
+addressing  some  of  these  issues  using  actual  economic  data.  Chapter  1-8  and  selected  material  in  Chapter  10-15 
+
+will be covered. In addition, basics of hypothesis testing and model selection methods will be covered.  
+
+ 
+30510983 风险管理与保险概论   
+
+Risk Management and Insurance  
+
+3 学分 
+
+48 学时 
+
+风险是现代社会的一个重要特征。我们的生活正面临着由于经济发展和科技进步所带来的前所未有的越来
+
+越多的风险。在与风险进行斗争的长期历史过程中，人类积累了丰富的风险管理知识与技术。风险管理可
+
+以帮助我们在非常广阔的领域里进行决策。而保险，作为风险管理中的一种风险管理方法，起到了独特而
+
+有效的作用。 
+
+这门课程通过探讨风险的来源、风险的成本、个人和公司可以利用的减轻风险成本的方法，使学生了解风
+
+险管理与保险的基础知识。课程的重点是将保险作为风险管理中一种独特而有效的风险管理方法，涵盖的
+
+内容包括风险管理和保险基础、财产和责任保险、人寿和健康保险以及保险市场和监管等。 
+
+ 
+
+ 
+30510992 战略管理 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Corporate Strategy Management  
+
+This  course  introduces  the  concepts  and  tools  of  strategy  formulation  and  competitive  analysis.  You  will  learn 
+
+about why  some  firms  survive  and  prosper while  others  do  not,  and  develop  critical  analysis  and  communication 
+
+skills  to  create  and  implement  firm  strategy.  The  course  focuses  on  the  analyses,  organizational  processes,  skills 
+
+and business judgment managers must use to craft strategies, position their businesses so as to maximize long -term 
+
+profits upon uncertainty and competition.   
+
+Strategic  Management  is  an  integrative  and  interdisciplinary  course,  which  takes  a  general  management 
+
+perspective.  It  views  the  firm  as  a whole,  and  examines  how  policies  in  each  functional  area  (such as  accounting, 
+
+economics,  finance, marketing,  and organizational  behavior)  are  integrated  into  an  overall  competitive  strategy.  It 
+
+is  intended  that  you  develop  a  “general  management  point  of  view”  in  this  course.  This  point  of  view  is  the  best 
+
+vantage  point  for  making  decisions  that  lead  to  sustainable  business  performance.  The   key  strategic  business 
+
+decisions  of  concern  involve  determining  organizational  purpose  to  evolving  opportunities,  creating  competitive 
+
+advantages,  choosing  competitive  strategies,  securing  and  defending  sustainable  market  positions,  and  allocating 
+
+critical  resources  over  long  periods.  Decisions  such  as  these  can  only  be  made  effectively  by  viewing  a  firm 
+
+holistically, and over the long term.  
+
+This  course  is  intended  to  help  you  develop  skills  for  formulating  strategy.  The  strategy  formulation  process 
+
+demands  the  mastery  of  a  body  of  analytical  tools  and  the  ability  to  take  an  integrative  point  of  view.  You  will 
+
+develop these skills through: 
+
+? In-depth analysis of industries and competitors; 
+
+? Prediction of competitive behaviors; 
+
+? Techniques for analyzing how firms can develop and sustain competitive advantages.  
+
+ 
+30511003 经济统计学 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Statistics for Business Economics 
+
+This  is an elective course  for undergraduate  students wishing  to  learn  statistics  for economics and business. Three 
+
+major components of this course are: probability & statistics, linear regression, time series.   
+
+This  elective  course  is  closely  related  to  two  required  courses  offered  at  Tsinghua  SEM:  Applied  Statistics  in 
+
+Business  &  Economics  and  Econometrics  I.  Compared  to  Applied  Statistics  in  Business  &  Economics,  the 
+
+probability & statistics part of this course appears a little more theoretical. The linear regression part of this course 
+
+is  typically  covered  by  Econometrics  I,  and  it  is  also  covered  by  this  course  to  review  the  related  statistical 
+
+concepts. The time series part of this course is not included by the two aforementioned courses.  
+
+This  elective  course  also  utilizes  datasets  to  demonstrate  how  statistical  methods  are  applied  in  linear  regression 
+
+and  time series analysis. At  the end of  the course, students are expected  to be able to use sound statistical analysis 
+
+in  the  future  empirical  work.  The  statistical  software,  STATA,  is  used  in  this  course  to  help  illustrate  the  course 
+
+material. 
+
+Topics  of  this  course  include:  basics  of  probability,  basics  of  statistical  inference,  basics  of  asymptotics,  simple 
+
+linear  regression,  multivariate  linear  regression,  linear  regression  framework,  introduction  to  time  series, 
+
+autoregressive and moving average models, forecasting.     
+
+This  course  is  open  to  sophomores,  juniors  and  seniors.  Students  who  are  interested  in  this  course  are  strongly 
+
+encouraged to consult with those who have taken this course in the past couple of years.  
+
+ 
+30511013 国际金融市场 
+
+ 
+
+3 学分 
+
+48 学时 
+
+International Financial Markets 
+
+内容：虚拟经济对金融的深远影响；外汇、国际结算、外汇交易等知识；货币市场、外汇期货、外汇期权、
+
+金融互换等基本衍生金融工具定价关系以及在外汇风险管理方面的运用；国际收支及不平衡调节；经济变
+
+量之间平价关系与汇率预测；国际金融市场、国际资本流动、国际货币体系及国际金融组织等。 
+
+ 
+30511021 新生专题研讨 
+
+Freshman Seminar 
+
+ 
+
+1 学分 
+
+16 学时 
+
+新生专题研讨课通过学生与教师之间针对某一课题进行面对面的交流、研讨，有效架设起“学者”与“师
+
+者”之间沟通互动的桥梁，使学生对于经管学院的治学理念有一个全新的感性认识，改变学生在高中以前
+
+养成的封闭、死板的学习方式，促进新生学习思维产生积极变化，为学生在大学期间的全面发展做好准备。
+
+目前开设的专题有“运营管理实践”、“信息系统研讨——信息价值与管理”、“资本与市场案例研讨”、“广
+
+告透视”、“中国的改革与发展”、“走近财务世界”、“全球化与中国”、“微观经济学”、“金融与社会”、“大
+
+数据时代的管理”、“优秀企业家与卓越企业的成长”、“气候变化与碳金融”、“企业与社会发展的历史分析”、
+
+“Paradoxes of Risk and Decision Making”. 
+
+ 
+30511043 计算机系统原理  
+
+Computer Systems Architecture 
+
+3 学分 
+
+48 学时 
+
+This  course  provides  the  hardware  and  software  technology  background  to  enable  systems  development  and 
+
+management personnel to understand tradeoffs in computer architecture for effective use in a business environment. 
+
+A  systematic  view  of  computer  systems  will  be  utilized  in  examining  the  components,  structures,  and 
+
+characteristics of computer hardware and software as the infrastructure of modern information technology.  
+
+ 
+30511053 公司金融 
+
+ 
+
+Corporate Finance 
+
+3 学分 
+
+48 学时 
+
+The  focus  of  the  course  is  learning  how  a  corporate  manager  can  evaluate  prospective  investments  and  projects, 
+
+and  how  to  raise  money  to  finance  the  projects.  This  involves  four major  parts.  The  first  is  discounted  cash  flow 
+
+(DCF)  valuation.  This  part  of  the  course  involves  learning  the  concepts  and  techniques  necessary  to  evaluate  the 
+
+cash flows of projects. A sample of  topics covered within  this part of  the course  includes the  time value of money, 
+
+compounding,  annuities,  perpetuities,  bond  prices,  stock  prices,  net  present  value,  and  the  internal  rate  of  return. 
+
+The  second  part  of  the  course  focuses  on  the  relationship  between  risk  and  return.  Sample  topics  include  capital 
+
+market  history,  market  efficiency,  concept  of  risk,  diversification,  the  Capital  Asset  Pricing  Model  (CAPM),  and 
+
+the weighted  average  cost  of  capital  (WACC).  The  third  part  is  capital  structure. More  details  regarding  debt  and 
+
+equity  are  discussed.  We  use  equity  as  example  to  introduce  issuing  securities  to  public.  Then  the   famous 
+
+Modigliani  and  Miller  (MM)  capital  structure  theory  is  introduced.  We  first  discuss  the  M&M  theory  without 
+
+corporate  taxes.  After  knowing  the  basic  ideas,  corporate  taxes  are  incorporated.  The  last  part  focused  on  firm 
+
+valuation. Three approaches are considered: WACC, Adjusted Present Value  (APV), and discounting cashflows  to 
+
+equity (FTE). Real world financial statement modeling is introduced as the most complicated case.  
+
+ 
+
+30511062 中国与世界：制度演变 
+
+ 
+
+2 学分 
+
+32 学时 
+
+China and the World: Evolution of Institutions  
+
+第一讲  制度演变概论 
+
+ 
+
+ 
+
+制度的概念、定义、操作、机制 
+
+古今中外基本制度概述：合同制、产权制、法制、宪政、民主制、共和制、封建制、君主制、君主立
+
+宪制、帝制、威权制、集权制、政党制、市场经济、中央计划经济 
+
+ 
+
+演变方式：演化、革命、殖民、制度移植 
+
+第二讲  欧洲从共和制到帝制，再到君主制-封建制，再到君主立宪制以及共和宪政的制度演进和条件；
+
+以及宪政同产业革命和经济增长的关系 
+
+第三讲  中国从封建制到郡县制、帝制的产生、演化和统治 
+
+第四讲  中西对比:  政治统治与制度化的宗教文化的交互作用,基督教会和儒教科举制 
+
+第五讲  中西对比:  土地制度,产权,皇权及宪政 
+
+第六讲  中西对比:  政治与人事制度   
+
+第七讲  世界近现代民主、宪政、市场经济、创新和长期经济发展的交互关系 
+
+第八讲  中央计划经济的兴衰及分权式威权制的近现代演变 
+
+ 
+40510073 高级财务会计 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Advanced Financial Accounting 
+
+主要介绍中、美、香港、国际会计准则的制订环境及准则差异，金融工具的会计处理，所得税会计，公司
+
+间长期投资的会计处理，外币业务处理和外币报表折算，非赢利组织和公共部门会计。 
+
+ 
+40510093 国际会计专题 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Topics on International Accounting 
+
+To  understand  the  development  of  accounting  and  financial  reporting  models  in  the  world,  and  to  enable  you  to 
+
+evaluate  the  reasons  and  evolution  of  international  accounting  harmonization  and  convergence;To  provide  you 
+
+with  the  key  technical  issues  in  international  accounting  area  and  their  impact  on  financial  reporting,  such  as 
+
+accounting  for  foreign  currency  transactions,  translation  of  foreign  financial  statements  and  accounting  for 
+
+changing  prices;  andTo  understand  some  management  accounting  issues  in multinational  operations,  for  instance, 
+
+the  establishment  of  management  control  and  information  system,  financial  risk  management,  international 
+
+taxation，and  international  transfer  pricing.Many  of  the  topics  in  an  international  accounting  course  have  a 
+
+domestic  counterpart. However,  new  factors  and  complications  arise  in  the  international  arena.  Some  of  these  are 
+
+(1)  laws,  practices,  customs,  cultures,  and  diversity  of  competitive  circumstances;   (2)  risks  associated  with 
+
+fluctuating  exchange  rates,  differential  rates  of  inflation,  and  unstable  property  rights;  and  (3)  variations  in  taxes 
+
+and  tax  rates.  International  accounting  discusses  issues  from  the  perspective  of  companies  that  have 
+
+internationalized  their  finance  and/or  operations.  It  also  has  a  comparative  aspect,  comparing  accounting  across 
+
+countries.  It  also  deals  with  convergence  of  worldwide  financial  reporting  standards.  This  course  is  designed  to 
+
+provide you with an understanding of  the significant  issues in  international accounting.The  teaching approach will 
+
+be mainly classroom lectures with some discussions and presentations. 
+
+ 
+40510193 管理系统模拟 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Management Systems Simulation 
+
+Many  analytical  models  and  mathematical  tools  have  been  used  in  business  decision  to  improve  the  operational 
+
+efficiency and seize the competitive advantage. Since, however, the real world business situation and environment, 
+
+regarded  as  a  system,  is  very  complex,  which  results  that  the  traditional  analytica l  methods  and  tools  cannot  fit 
+
+properly. This course will  introduce a new methodology  – simulation –  into the business management systems. As 
+
+its  name  says,  in  complex  systems,  where  the  number  of  related  variables  is  huge  and  they  are  also  closely 
+
+interdependent,  simulation  method  is  to  mimic  the  real  parameters  in  computer  system,  using  the  time -advance 
+
+mechanism,  to  generate  the  evolutionary  results  over  time.  In  so  doing,  after  enough  replications  of  simulation, 
+
+statistically  confident  results  could  be  derived.  Clearly,  the  computational  load  is  extremely  high.  But,  with 
+
+mainstream  personal  computer  nowadays,  this  process  could  be  performed  efficiently.  In  this  course,  we  will 
+
+cultivate the students with the abilities of modeling, simulation and analysis  with computer and software. 
+
+This course includes: 
+
+a)  Basic Concepts on Simulation Modeling; 
+
+b) 
+
+c) 
+
+d) 
+
+The Simulation Process; 
+
+Simulation with EXCEL; 
+
+Input Analysis using Statistics; 
+
+e)  Random Number and Random Variable Generation; 
+
+f) 
+
+Basis of simulation with ARENA; 
+
+g)  Advanced simulation with ARENA;  
+
+h)  Output Analysis; 
+
+i) 
+
+Lecture on system dynamics;  
+
+By the end of the course, the students should: 
+
+1.  Master the methodology of simulation and can modeling complex business systems;  
+
+2.  Master the abilities of modeling with EXCEL and ProModel. 
+
+3. 
+
+Cultivate the ability for further simulation analysis, design and implement.  
+
+To  accomplish  this  global  goal,  lecturing  is  far  from  enough;  case  programming,  modeling  and  analysis, 
+
+assignment and Q&A are also important. 
+
+ 
+
+40510223 生产与运作管理  
+
+3 学分 
+
+48 学时 
+
+Production and Operation Management  
+
+企业的运作流程是将人力、物料、设备、资金、信息、技术等生产要素(投入)变换为有形产品和无形服务(产
+
+出)的过程。生产与运作管理既是对这一流程进行管理。生产运作管理的主要内容可概括为四大部分：（1）
+
+运作战略与企业竞争力，包括企业运作竞争的重点、运作战略与企业竞争力的关系、运营流程的选择等；
+
+（2）运作系统设计，包括新产品和新服务的开发、能力规划、设施选址与布局、工作设计等；（3）运作活
+
+动的计划、组织与控制，包括预测技术、不同层次的生产运营计划、库存控制、MRP 与 JIT、供应链管理
+
+等；（4）运营系统与运营过程的改进，包括质量管理与改进等。 
+
+ 
+40510275 会计实习 
+
+ 
+
+Accounting Practice 
+
+5 学分 
+
+学生在企业、会计师事务所等参加会计或审计工作，将所学知识结合实际，整合自己的知识体系。 
+
+ 
+40510293 金融工程导论 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Introduction to Financial Engineering  
+
+通过本课程的学习，掌握金融工程的基本原理，获得作为金融工程师的基本训练。 
+
+ 
+40510323 中级财务会计(1) 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Intermediate Financial Accounting(1) 
+
+This course will  focus on U.S. accounting  standards, and  the underlying  issues of accounting will be  incorporated 
+
+with  its  actual  development  in  China  and  international  accounting  standards.  We  will  also  cover  various  ethical 
+
+issues related to the use and production of accounting information. All the materials will be taught in the class, and 
+
+small cases will be discussed to get a better understanding. This course is divided into two parts: the first part gives 
+
+a  brief  review  of  the  standard  setting  process  of  U.S.  GAAP  and  describes  the  financial  reporting  environment. 
+
+Financial accounting framework and accounting system are also discussed; the second part illustrates the treatment 
+
+of basic accounting elements, including cash, inventories property, plant and equipment and intangible assets.  
+
+ 
+40510333 中级财务会计(2) 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Intermediate Financial Accounting(2) 
+
+Based  on  the  Intermediate  Accounting  (1),  this  course  covers  detail  problems  related  to  liabilities, 
+
+shareholders’equities,  investment  and  revenue  recognition. Meanwhile,  this  course  introduces  briefly  the  income 
+
+tax, pension and lease problems and accounting treatments on them.  
+
+ 
+40510343 管理会计(1) 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Managerial Accounting (1) 
+
+本课程主要介绍管理会计领域的基本概念、方法、分析技巧和实务操作策略，内容可概括为以下几个方面： 
+
+(1)基本概念和基本方法，包括成本概念及其分类、成本核算方法、成本性态分析、本量利分析等等； (2)
+
+基本的决策程序，主要包括营销决策和生产决策等；(3)具体的决策分析，主要包括标准成本系统、静态预
+
+算、弹性预算、组织架构设计、内部转移价格制定，业绩评价和考核等等。针对现代管理会计的发展演变
+
+以及国内外管理会计理论和实践的差异，本课程将重点讲述作业成本法、平衡计分卡、全面质量管理等管
+
+理会计领域较前沿的操作策略。 
+
+ 
+40510353 管理会计(2) 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Managerial Accounting (2) 
+
+本课程将采用“以用户（决策者）为导向”的观点，着重阐明在各类组织中如何生产和利用会计信息，涉
+
+及的内容有：1.事业部制度与预算管理系统；2.成本管理系统；3.决策分析；4.统筹计分卡；5.代理人税与
+
+管理会计；6.报酬与激励制度。 
+
+ 
+40510485 课程设计 
+
+ 
+
+5 学分 
+
+ 
+
+Design Studio in the Speciality Field 
+
+掌握一种编程工具，利用学习过的管理信息系统的知识，使用该工具作一件事情（分析、设计、编程、实
+
+现）。 
+
+ 
+40510522 优化模型及软件工具   
+
+2 学分 
+
+32 学时 
+
+Optimization Models and Software Tool  
+
+本课程在学习运筹学基本知识的基础上，进一步讲授构造实用优化模型的一般方法、技巧以及计算机实现
+
+方法。重点介绍结构化构模方法、一些典型的优化模型、以及应用优化软件求解优化模型的方法与技巧。
+
+为扩展学生对实用优化模型的了解，课程还将从管理科学领域最好的应用型杂志 INTERFACES 上选取最新
+
+的运筹学应用案例，通过自学、小组讨论分析与精心的准备，将要求学员在课堂上讲解这些应用案例。 
+
+ 
+40510633 人身与健康保险  
+
+3 学分 
+
+48 学时 
+
+Principles of Insurance:Life,Health and Annuities 
+
+本课程主要讲授寿险与健康保险业对管理个人风险的重要意义、国际发展状况与趋势、寿险公司的运作方
+
+式、资信评级与监管、不同产品的定价原理、基本条款等内容。 
+
+ 
+40510682 社会保险 
+
+ 
+
+Social Insurance 
+
+2 学分 
+
+32 学时 
+
+本课程首先讲授社会保险的基本原理，包括社会保险的定义、功能、原则，社会保险在整个社会保障体系
+
+中的地位，社会保险和商业保险的相互关系等内容。在此基础上，分别讲授社会保险体系中的各类主要保
+
+险险种，包括社会养老保险，社会健康和医疗保险，社会失业保险，补充养老保险等。 
+
+ 
+40510693 财产与责任保险  
+
+3 学分 
+
+48 学时 
+
+Property and Liability Insurance  
+
+本课程讲授企业财产与责任保险，包括四个部分：第一部分，讲授企业风险及风险管理的基本原理，包括
+
+企业风风险分析、风险管理的必要性、风险管理决策等内容；第二部分为企业财产保险与责任保险原理，
+
+包括保险的基本概念，财产保险的需求、财产保险定价、财产保险合同等内容；第三部分为财产与责任保
+
+险实务，分别讲授企业财产保险、家庭财产保险，责任保险，汽车保险等；第四部分，主要介绍保险市场
+
+的发展和创新。 
+
+ 
+40510742 会计理论 
+
+ 
+
+Accounting Theory 
+
+2 学分 
+
+32 学时 
+
+对于即将面临毕业论文、走向工作岗位和进入研究生阶段学习的大四学生来说，如何在未来的工作与研究
+
+中灵活应用以前所学的专业知识是一个重要的问题。未来的工作和学习要求学生具备独立思考问题和解决
+
+问题的能力，而与专业领域相关的理论框架是培养这种能力的重要基础。本课程将主要结合毕业论文及未
+
+来工作和研究生阶段学习的需要，介绍与会计实践有关的理论框架，帮助学生将过去几年学习的会计知识
+
+和经济学理论建立起联系，并结合中国的制度背景，探讨和分析中国的会计问题。 
+
+ 
+40510752 国际税务 
+
+ 
+
+International Taxation 
+
+2 学分 
+
+32 学时 
+
+通过本课程的学习，学生将在对国际主流税收理论和税制有较全面了解的基础上，掌握国际税务筹划的基
+
+本原理和技巧，在履行公民义务的基础上，实现股东税后财富的最大化。 
+
+ 
+40510763 国际经济学 
+
+ 
+
+3 学分 
+
+48 学时 
+
+International Economics-Theory and Policy  
+
+This  course  introduces  to  students  basic  concepts  and  theories  in  international  economics.  Topics  covered  in  the 
+
+course  include:  Ricardian  trade  model,  Neo  classical  trade  theory,  The  Heckscher-Ohlin,  new  trade 
+
+theory-competitive  advantage,  International  capital  and  labor  movement,  tariff  and  non-tariff  barriers  and 
+
+protectionism, balance of payment and exchange rate, economic policy under fixed and floating exchange rate.  
+
+ 
+40510823 税制与税务 
+
+Taxation 
+
+ 
+
+3 学分 
+
+48 学时 
+
+本课程主要讲述我国现行的税法体系，具体包括税法概论和各税种的详细介绍，即增值税，消费税、营业
+
+税、所得税、资源税等的征税范围，计税依据和应纳税额的计算方法及税收优惠政策等。 
+
+ 
+40510842 电子商务 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Introduction    to    Electronic    Business 
+
+教学内容：本课程介绍电子商务的基本原理与框架，从技术、商务过程、企业应用案例角度，介绍国内外
+
+电子商务的最新发展与应用。主要内容包括电子商务概论，技术基础架构，电子商务安全技术，网上支付，
+
+网上个性化服务，网上银行，网上拍卖，网上广告，电子市场，电子商务系统开发等章节。 
+
+ 
+40510853 动态系统分析与控制   
+
+3 学分 
+
+48 学时 
+
+Dynamic Systems：Analysis and Control 
+
+本课程主要围绕线性系统展开，课程对古典控制理论进行简要地介绍，着重讲解现代控制理论的状态空间
+
+方法。主要内容包括：动态系统建模方法，系统运动规律、特征、平衡点、稳定性、振荡等概念，正系统
+
+的特征，系统能观性与能控性，系统控制方法：输出反馈、状态反馈、状态估计，系统最优控制：重点是
+
+线形系统二次型，以及非线性系统的一些基本概念与分析方法。  在课程的讲授过程中大量采用来自管理、
+
+经济、社会、文化、工程等领域的例子对各种概念、原理和方法进行说明。 
+
+ 
+40510872 面向对象的分析设计方法 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Object-oriented analysis and design methods  
+
+本课程在学生掌握面向对象程序设计基础之上，介绍了面向对象范式下的标准建模语言 Unified  Modeling 
+
+Language（UML）和相应的信息系统开发过程，并针对面向对象范式下信息系统开发的几个基本工作流：
+
+需求工作流、分析工作流、设计工作流、实现和测试工作流，结合具体示例和练习使学生能够了解和应用
+
+不同工作流下的主流开发工具和方法。 
+
+ 
+40510943 产业组织理论 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Theory of Industrial Organization 
+
+Under  what  circumstances  should  telecommunication  firms  be  allowed  to  merge?    When  are  hotel  room  prices 
+
+"too high", such  that public authorities should  intervene  to make  them  lower?    Is it ok for nightclubs to charge an 
+
+entry  fee  for  men  but  to  let  women  in  for  free?    Industrial  Organization  Theory  is  a  set  of  tools  that  seek  to 
+
+provide  economic  answers  to  these  and  many  other  questions.    Ranging  from  one  extreme  of  monopoly  to  the 
+
+other  of  perfect  competition,  this  course  will  provide  an  introductory  exploration  of  the  rich  set  of  models  of 
+
+imperfect competition, with a focus on business strategy and policymaking applications.  
+
+Or,  if  you  prefer,  this  a  description  of  the  subject  from  Prof.  GAO  Ming,  who  another  section  of  this  course  at 
+
+Tsinghua  SEM:  Industrial  Organization  (IO)  is  the  sub-field  of  microeconomics  that  studies  firm  behaviour  and 
+
+strategy  in market competition, as well as the  induced  industry characteristics. Not only useful  for economists,  the 
+
+theory of IO also provides the basic theoretical framework for researchers and practitioners in many other business 
+
+subjects,  including  corporate  finance  (e.g.  merger  and  acquisition),  marketing  (e.g.  pricing)  and  strategic 
+
+management (e.g. competitiveness analysis).   
+
+40510962 职业发展规划 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Career Development Planning 
+
+职业生涯管理过程与理论；自我心理测评与认识；确定职业目标；职业选择与就业准备；高校毕业生就业
+
+情况分析；求职与面试；个人职业生涯规划。 
+
+ 
+40510973 劳动经济学 
+
+Labor Economics 
+
+ 
+
+3 学分 
+
+48 学时 
+
+This  course  studies  the  mechanism  of  labor  markets.  It  covers  the  traditional  topics  in  labor  economics,  which 
+
+include  the  theories  of  labor  demand  and  supply  (both  static  and  dynamic),  labor  market  equilibrium, 
+
+compensating  differentials,  human  capital  investments  and  returns,  wage  determination  and  structure,  migration, 
+
+gender  and  race  discrimination,  inequality,  unionization,  efficiency  wages  and  work  incentive  scheme,  and 
+
+unemployment.  It  deals  with  the  impacts  of  wages,  prices,  profits,  working  conditions,  government  policies  and 
+
+the like on the decision makings of firms and workers.  
+
+ 
+40510983 中国经济专题 
+
+Topics on China Economy  
+
+ 
+
+3 学分 
+
+48 学时 
+
+本课程围绕中国经济的若干专题展开，包括：经济体制的演变，劳动力资源配置，银行体制与金融市场，
+
+经济增长、结构变化和地区差距，“三农”问题，国有企业改革，社会保障体系的建立，资源、环境与可持
+
+续发展等；以介绍教师们在相关问题上的研究成果为主要形式；以培养学生的研究兴趣，领会科学有效的
+
+研究方法为基本目的。 
+
+ 
+40510992 企业资源规划 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Enterprise Resource Planning 
+
+ERP  systems  are  enterprise-wide  information  systems  that  integrate  various  functional  operations  and  streamline 
+
+business  processes.  This  course  aims  to  introduce  the  concepts  of  ERP  systems  as  well  as  the  application, 
+
+implementation, and management of ERP.   
+
+In particular, the course will help you to obtain the knowledge of ERP at three levels.  
+
+1.  At  the  system  level. Through  hands-on  experience with  SAP  in  lab  sessions,  you will  learn  SAP  commands 
+
+and functions. You will be able to handle basic business processes in the SAP environment. 
+
+2.  At  the  business  process  level. You will  learn  how  functional  operations  interact  and  coordinate  to  complete 
+
+business processes and how ERP can enable and facilitate business process integration. 
+
+3.  At  the  organizational  level.  You  will  be  able  to  recognize  and  understand  organizational  and  managerial 
+
+issues  associated  with  enterprise  systems,  such  as  planning,  vendor  evaluation  and  selection,  as  well  as  system 
+
+implementation. 
+
+The primary targets of this course are those who are interested to pursue careers in ERP systems firms as managers, 
+
+software  analysts  and  developers,  in  ERP  consulting  firms  as  consultants,  and  ERP  industry  user  firms  as  system 
+
+engineers. As this course can enhance the understanding of management information systems, it is also suitable for 
+
+those who plan to pursue various IS professional careers.  
+
+ 
+40511003 环境与资源经济学 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Environmental and Resource Economics  
+
+This  course  is  an  introduction  of Environmental  and Natural Resource Economics. The  objective  of  this  course  is 
+
+for  students  to  learn  how  basic  economic  theory  can  be  used  to  understand  and  analyze  environmental  pollution 
+
+and  resource  degradation  problems.  The  course  covers  both  conceptual  and  methodological  topics  and  recent 
+
+applications. Examples of  local,  regional, national and  international environmental and natural  resource  issues  are 
+
+presented and discussed. The first part of this course is an introduction to the basic principles of environmental and 
+
+resource  economics;  cost  and  benefit  analysis.  In  the  second  part  the  focus  is  on  environmental  economics  and 
+
+policy,  including economics of pollution control, valuing  the environment,  regional and global  air pollution, water 
+
+pollution and so forth. The third part is focused on natural resource economics, both renewable and non -renewable 
+
+resources.  The  last  part  is  on  sustainable  development  and  macroeconomic  aspect  of  environmental  policy,  and 
+
+Green Accounting. 
+
+ 
+40511012 商务案例分析 
+
+Business Case Analysis 
+
+ 
+
+2 学分 
+
+32 学时 
+
+This  course  is  designed  for  future  managers  who  will  face  the  new,  globalized,  and  borderless  world  economy. 
+
+Globalization  and  technological  advances  have  created  exciting  opportunities  for managers  to  pursue  strategies  in 
+
+markets  around  the  world.  These  developments  also  present  managers  with  enormous  complexity  in  terms  of 
+
+understanding  diverse  economic,  political  and  social  environments,  managing  the  organizational  tension  inherent 
+
+in  coordinating  activities  worldwide,  fostering  innovation  and  cross-national  learning,  and  interacting  with 
+
+employees and partners from diverse cultures.   
+
+This  course  leverages  the  foundation  built  in  other  cornerstone  courses  to  explore  topics  such  as  development  of 
+
+globalization,  firms’  foreign  expansion  strategies,  the  chal lenges  of  operating  in  different  cultures,  the  difficulties 
+
+of  designing  effective  organizational  structures  for  multinational  operations,  leadership  in  the  global  context,  and 
+
+so on.   
+
+A  balanced  approach  is  taken  to  this  course:  on  one  hand,  this  course  aims  to  arm  students  with  necessary 
+
+knowledge and skills by covering key aspects of business case analysis and problem solving. Particularly, a global 
+
+orientation  is  reinforced  by  drawing  on  worldwide  cases  or  examples;  On  the  other  hand,  this  course  will  o ffer 
+
+students  the  opportunities  of  applying  the  contents  of  this  course  through  class  discussion,  case  analysis,  field 
+
+study,  and  communication with  diverse  types  of  international  institutions.  I would  strongly  encourage  active  class 
+
+participation. My experience has been  that  students generally  tend  to under-  (rather  than over-) estimate  the worth 
+
+of  what  they  have  to  say.  Thus,  please  note  that  probing  questions  are  as  useful  a  form  of  class  participation  as 
+
+presentations of logical analyses. 
+
+ 
+40511022 全球化商务管理实践   
+
+2 学分 
+
+32 学时 
+
+Global business Analysis Team Project  
+
+国际宏观战略分析的重要性、如何影响全球。跨文化管理的重要性、跨文化小组的作用、5 维文化管理模
+
+型。小组项目计划。公司治理对社会责任和管理商务管理的重要性。不同国家的区别。学生课堂汇报及小
+
+组陈述计划。质疑讨论。外出参观企业。 
+
+ 
+40511033 政治经济学 
+
+Political Economy 
+
+ 
+
+3 学分 
+
+48 学时 
+
+以《资本论》为蓝本，引导同学读懂原著，在同西方经济学各流派的比较中阐明马克思经济学的基本原理，
+
+重点是马克思经济学的劳动价值理论、剩余价值理论、资本积累理论以及生产关系原理理论等；并以此为
+
+指导解释战后资本主义的发展和社会主义的改革。 
+
+ 
+40511082 金融风险管理 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Financial Risk Management  
+
+本课程以金融市场风险管理为主要内容，1、管理层对金融机构的监督，2、金融机构自身对风险的度量和
+
+管理。本课程具体内容包括市场金融机过对市场风险，信用风险，和作业风险的度量和管理，监管层对银
+
+行监管，以及蓬勃发展的风险管理衍生品市场。 
+
+ 
+40511093 财务管理 
+
+ 
+
+Financial Management 
+
+3 学分 
+
+48 学时 
+
+Financial strategies encompass those financial decisions that affect  the long-run value of the firm. The objective of 
+
+this course is to build on the concepts of financial management learned in Corporate Finance (1) and other relevant 
+
+courses to provide a bridge to understanding the underlying principles behind why these decisions are made and to 
+
+offer  explanations  for  observed  behaviors  on  the  part  of  financial  decision  makers.  Focus  will  be  placed  on 
+
+developing  a  comprehensive  framework  of  conceptual  knowledge  that  builds  on  the  principle  of  value 
+
+maximization.  Capital  budgeting,  business  valuation,  investment  analysis,  capital  structure,  option   theory,  risk 
+
+management, and long-term financing are integral parts of this conceptual framework.  
+
+ 
+40511103 博弈论 
+
+Game Theory 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Game  theory  is  the  foundation  of  almost  all  modern  economic  theory.  It  is  one  of  the most  interesting  courses  in 
+
+undergraduate  economics.  Emerged  originally  as  a  field  of  mathematics,  it  has  been  successfully  applied  to  all 
+
+fields  of  economics.  Furthermore,  game  theory  also  plays  an  increasing  role  in  other  social  sciences  such  as 
+
+philosophy, law and politics, and in natural science such as evolutionary biology and computer science, etc.   
+
+This  course  is  an  introduction  to  game  theory,  which  puts  emphasis  in   introducing  basic  game-theoretic  analysis, 
+
+including the conception, analytic techniques and applications for each type of games.   
+
+We  will  discuss  static  games  with  perfect  information,  static  games  with  imperfect  information,  and  dynamic 
+
+games with or without perfect information. 
+
+Most  class  sessions  will  be  delivered  in  English  and  will  consist  of  both  “hands-on”  experiences  in  structured 
+
+strategic situations as well as lectures about the theory underlying these situations. Student participation is strong ly 
+
+encouraged. 
+
+ 
+40511123 金融学专题研究  
+
+Finance Seminar 
+
+3 学分 
+
+48 学时 
+
+This  course  is  a  seminar  style  class.  Each  class  (except  the  first  one)  focuses  on  one  specific  topic.  Each  class 
+
+contains  three  sections:  lecture  on  brief  introduction  to  the  literature  of  the  topic  covered  by  the  class;  paper 
+
+discussion; and student presentations of journal articles. 
+
+ 
+
+ 
+
+Lecture: Each class begins with brief introduction to the body of literature on the topic covered by the class.   
+
+Paper  discussion:  Each  class  discusses  one  article  on  the  covered  topic.  Every  student  should  contribute  to 
+
+the  discussion  of  every  paper.  Students  are  expected  to  have  thoroughly  read  the  articles  and  be  ready  to  answer 
+
+any  questions  related  to  them.  The  following  main  areas  of  each  paper  will  be  discu ssed:  its  key  findings,  its 
+
+methods and research design,  its contribution  to  the topic,  its strengths and its weaknesses. Class participation will 
+
+not rely only on volunteers and cold-call will also be employed. 
+
+ 
+
+Student  presentations  of  journal  articles:  Each  student  is  required  to  give  a  presentation  of  a  recommended 
+
+journal  article  (or  working  paper)  over  the  semester.  The  detailed  requirement  can  be  seen  in  course  evaluation 
+
+section.   
+
+The class also includes several talks by outside speakers from industries and other academic institutions. 
+
+ 
+
+40511133 计量经济学(2) 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Econometrics(2) 
+
+This  course  aims  to  equip  students  with  modern  econometric  tools  and  modeling  methods  for  them  to  set  up 
+
+suitable  econometric  models  to  do  data  analysis.  Hence  the  approach  of  this  course  will  be  model-driven  and 
+
+data-driven, which  focuses  on  econometric  applications without pursuing  technical  details. This  course will  cover 
+
+some  modern  topics  in  both  macro-econometrics  and  micro-econometrics.  For  macro  side,  we  will  introduce  the 
+
+concept  of  non-stationarity  and  study  the  problem  of  unit-root  tests  and  co-integration  test,  as well  as  the  famous 
+
+ECM  model.  We  will  also  study  the  vector  autoregression  models  which  play  an  important  role  in  macro 
+
+applications. For microeconometrics, we will cover several important models in application, namely, binary choice 
+
+model,  discrete  choice model, models  for  count  data,  sample  selection model,  and  the panel data model.  For  each 
+
+model introduced, we will discuss its applicability, limitation , and estimation methods together with inference tools. 
+
+Since  this  course  focuses  on  applied  side,  we  will  also  provide  training  in  econometrics  softwares,  e.g. 
+
+STATA/Eviews/R. 
+
+ 
+40511151 优秀学术人才培养计划 
+
+Honors Program – Academic Track 
+
+ 
+
+1 学分 
+
+16 学时 
+
+由指导老师和学生依据学生研究兴趣和指导老师的研究领域共同选择研究方向。学生在老师指导下选择阅
+
+读材料，阅读后报告阅读内容和体会，明确和细化自己的研究课题，设计并执行研究方案，最终写出学术
+
+论文。 
+
+设置培养学生选题、阅读、理解、批判、提出新问题、解决新问题、讨论、讲解、写作等方面能力的环节。 
+
+ 
+40511171 优秀创业人才培养计划 
+
+ 
+
+1 学分 
+
+16 学时 
+
+Elite Students Project for Entrepreneurship 
+
+（1）  通过学习创办新企业的知识和技能，掌握管理整个创业过程的关键技能； 
+
+（2）  通过参与新企业的创业活动，初步具备处理创业难题的经验； 
+
+（3）  通过参与创业网络，熟悉创业的利益相关者，构建创业的良好人缘环境； 
+
+（4）  通过制定商业计划，实施创业构想。 
+
+ 
+40511202 国际商务 
+
+ 
+
+International Business 
+
+2 学分 
+
+32 学时 
+
+International  Business  differs  in  important  ways  from  business  conducted  within  national  borders.  It  poses 
+
+additional  challenges but also offers new opportunities. This course provides a  framework  for analyzing decisions 
+
+made by firms in an international context. The analytical framework provides a basis for formulating strategies that 
+
+will  enable  businesses  to  succeed  in  the  international  business  environment.  The  course  combines  material  from 
+
+strategy, international finance, trade theory, trade policy, marketing, human resource management and other related 
+
+areas.  We  emphasize  the  use  of  analytical  tools  and  concepts  but  provide  many  real-world  examples.  Course 
+
+projects help students develop  their research and writing skills. The course  is  integrative by design, which  leads to 
+
+some overlap with material taught in other courses. The course topics follow the chapters of the  textbook. 
+
+ 
+40511215 经济与金融（含保险）专业实习  
+
+5 学分 
+
+80 学时 
+
+Professional Practice for Economics and Finance Major  
+
+通过进入企事业单位从事专业领域的实际工作，或参与研究工作者的与专业相关的实际研究工作，了解相
+
+关工作的职业特点，体会专业知识的应用，培养实际动手能力，为将来走上工作岗位打下基础。 
+
+ 
+40511242 公司金融案例分析 
+
+ 
+
+2 学分 
+
+32 学时 
+
+Case analysis for Corporate Finance  
+
+Case  analysis  for  Corporate  Finance  course  covers  the  content  of  both  basic  theory  of  corporate  finance  and  the 
+
+knowledge and skills of financial decision making analysis. It mainly includes the financial statement analysis, risk 
+
+and  return  and  cost  of  capital;  valuation;  capital  budgeting,  financing  alternative  approaches;  dividend  policy  and 
+
+Merger & Acquisition..In  order  to put  context  between  theory  and  the practical  situation  in China,  the  review  and 
+
+discussion of the financial situation in China is arranged associated with the relevant topics of each class.  
+
+The  teaching methodology  of  the  course  is mainly  case  study  combined with  practical  project  and mini  lecturing. 
+
+After  taking  this  course,  the  students  should:  1)  learn  the  basic  principle  of  Corpora te  Finance,  2)  build  the  basic 
+
+skill of financial analysis and decision-making, and understand more about relevant situation in China.  
+
+ 
+
+40511263 固定收益证券分析 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Fixed Income Securities Analysis 
+
+This  course  provides  a  systematic  overview  of  fixed  income  securities  and  analytical  tools.  In  the  first  part  of  the 
+
+course,  the  students  will  become  familiar  with  the  basics  of  fixed  income,  interest  rate  models,  and  derivatives. 
+
+The  second  part  will  focus  on  introducing  corporate  debts,  credit  risk  modeling  and  derivatives,  including  CDS 
+
+and CDO. The students will understand  through practice  the available modeling approaches. The course will catch 
+
+the  interaction  between  finance  modeling  and  the  practices  in  Chinese  and  overseas  markets,  such  as  the  US 
+
+sub-prime mor 
+
+ 
+40511291 领导力提升 
+
+Leadership Development 
+
+ 
+
+1 学分 
+
+16 学时 
+
+作为“优秀人才领导力培养计划”的先修课，本课程面向有意锻炼并提升自身领导力的高年级学生，采取
+
+因材施教的方式，通过课堂讨论、阅读思考、课后交流与领导力实践等多种方式，开发学生领导力潜质，
+
+系统地提升学生的领导力。 
+
+ 
+40511313 中级金融理论 
+
+ 
+
+3 学分 
+
+48 学时 
+
+Intermediate Financial Theory 
+
+This  course  introduces  the  basic  theoretical  framework  of modern  finance  and  empirical  tests,  including:  risk  and 
+
+investment  management  theory,  pricing  theories  and  models  based  on  arbitrage  and  equilibrium  principles, 
+
+derivatives, empirical finance and behavioral finance. 
+
+ 
+40511331 人生发展与职业规划（2）   
+
+1 学分 
+
+16 学时 
+
+Life Development and Career Planning(2) 
+
+教学目的与重点  此课程为职业规划与发展教育类课程。通过聘请经管学院活跃在各行业的优秀校友，为学
+
+院本科一、二年级的学生讲授个人的成长经历与经验，为在校本科生提供借鉴及人生、职业规划方面的建
+
+议，帮助学生树立正确的人生观和价值观。 
+
+ 
+40511353 中国经济史 
+
+History of China Economy  
+
+ 
+
+3 学分 
+
+48 学时 
+
+从“大分流”出发，在中西经济比较视野之下，考察近三百年来中国经济的演变与特征。 
+
+１.中国经济之本原：传统经济的脉络与基本特征 
+
+２.近代中国经济的转型失败：认识误区与曲折探索 
+
+３.现代中国经济的艰难探索 
+
+ 
+
+40511373 精算学(1)   
+
+3 学分 
+
+48 学时 
+
+Mathematics of Risk(1) 
+
+The  course  provides  a  rigorous  introduction  to  the  basic  probability  theory  and  models  used  in  the  study  of 
+
+insurance losses and loss processes. Students are expected to be proficient in differential, integral, and multivariate 
+
+calculus, and some previous exposure to probability and/or statistics is desirable. The following specific topics will 
+
+be covered: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Random variables in insurance 
+
+Distribution parameters and their applications 
+
+Common probability distributions for loss frequencies 
+
+Common probability distributions for loss severities  
+
+Alternative characterizations of random variables (survival functions, MGFs, etc.) 
+
+Multivariate and conditional distributions; the Bayesian framework  
+
+Convolution of probability distributions; total loss models  
+
+Transformations of random variables 
+
+Effects of insurance policy restrictions (deductibles, limits, copayments)  
+
+Heavy-tailed random variables 
+
+Risk measures (value at risk, expected shortfall, ruin probability, etc.)  
+
+Asymptotic results 
+
+The  course  provides  a  rigorous  introduction  to  the  basic  probability  theory  and  models  used  in  the  study  of 
+
+insurance losses and loss processes. Students are expected to be proficient in differential, integral, and multivariate 
+
+calculus, and some previous exposure to probability and/or statistics is desirable. The following specific topics will 
+
+be covered: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Random variables in insurance 
+
+Distribution parameters and their applications 
+
+Common probability distributions for loss frequencies 
+
+Common probability distributions for loss severities  
+
+Alternative characterizations of random variables (survival functions, MGFs, etc.)  
+
+Multivariate and conditional distributions; the Bayesian framework  
+
+Convolution of probability distributions; total loss models  
+
+Transformations of random variables 
+
+Effects of insurance policy restrictions (deductibles, limits, copayments)  
+
+Heavy-tailed random variables 
+
+Risk measures (value at risk, expected shortfall, ruin probability, etc.)  
+
+Asymptotic results 
+
+ 
+40511385 学术训练或企业实践   
+
+5 学分 
+
+Academic Training or Enterprise Practice 
+
+本科生在大三的时候都将面临毕业后的选择问题，本学术训练或企业实践课程给同学们提供了一个了解学
+
+术研究或企业工作的机会。在本课程中，同学们可以根据自己的兴趣爱好，选择从事一个小型学术课题的
+
+研究，或者深入企业进行实践，了解并尝试解决企业经营中面临的管理问题。学术训练：同学们可以在文
+
+献阅读或者和指导老师交流的基础上，选择一个自己感兴趣的学术课题，并尝试利用已经学到的相关专业
+
+知识和工具，尝试独立开展一定的学术研究工作。企业实践：同学们也可以利用在暑期企业实践的机会，
+
+针对企业某领域的具体管理问题，结合专业理论知识雨衣分析并尝试提出解决方案。在学术训练或企业实
+
+践的过程中，同学们会学习和掌握理论或应用研究中的各种方法和技巧，从而达到提高发现并解决问题能
+
+力的目的。 
+
+ 
+40511392 营销原理 
+
+ 
+
+Marketing Principles 
+
+2 学分 
+
+32 学时 
+
+The objective of this course is to prepare students for the management of cross-border business activities. Students 
+
+should  develop  a  deeper  understanding  of  market  selection,  market  entry  modes,  internationalization  strategies, 
+
+and international marketing concepts in the context of global integration.   
+
+The course will cover the following topics and will provide students deeper insights into:  
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+market research 
+
+market selection and entry modes 
+
+product policy 
+
+distribution and pricing 
+
+communication 
+
+The course furthermore advances the following abilities: 
+
+- 
+
+- 
+
+- 
+
+- 
+
+to develop practical solutions for concrete problems based on theoretical concepts  
+
+to develop solutions for a given problem in a team under time pressure  
+
+to present solutions in a logical, sound, and persuasive manner 
+
+to provide and receive feedback 
+
+The objective of this course is to prepare students for the management of cross-border business activities. Students 
+
+should  develop  a  deeper  understanding  of  market  selection,  market  entry  modes,  internationalization  strategies, 
+
+and international marketing concepts in the context of global integration.   
+
+The course will cover the following topics and will provide students deeper insights into:  
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+market research 
+
+market selection and entry modes 
+
+product policy 
+
+distribution and pricing 
+
+communication 
+
+The course furthermore advances the following abilities: 
+
+- 
+
+- 
+
+- 
+
+- 
+
+to develop practical solutions for concrete problems based on theoretical concepts  
+
+to develop solutions for a given problem in a team under time pressure  
+
+to present solutions in a logical, sound, and persuasive manner 
+
+to provide and receive feedback 
+
+ 
+40511402 精算学（2） 
+
+Mathematics of Risk 2  
+
+ 
+
+2 学分 
+
+32 学时 
+
+The  course  addresses  a  number  of  fundamental  topics  from  intermediate  professional  actuarial  examinations,  as 
+
+well  as  more  advanced  topics  of  current  interest.  Specifically,  students  will  study,  evaluate,  and  apply 
+
+mathematical techniques relating to: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Utility theory 
+
+Probability distributions for insurance loss frequencies and loss severities  
+
+The effects of insurance policy restrictions (deductibles, limits, copayments) 
+
+The individual and collective risk models for total insurance losses  
+
+Insurer net worth processes and ruin theory 
+
+The frequentist and Bayesian statistical paradigms  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Point- and interval-estimation methods 
+
+Model-selection methods 
+
+Credibility methods for combining estimates and forecasts  
+
+Catastrophe risks 
+
+Reinsurance markets 
+
+The  course  addresses  a  number  of  fundamental  topics  from  intermediate  professional  actuarial  examinations,  as 
+
+well  as  more  advanced  topics  of  current  interest.  Specifically,  students  will  study,  evaluate,  and  apply 
+
+mathematical techniques relating to: 
+
+Utility theory 
+
+Probability distributions for insurance loss frequencies and loss severities  
+
+The effects of insurance policy restrictions (deductibles, limits, copayments) 
+
+The individual and collective risk models for total insurance losses  
+
+Insurer net worth processes and ruin theory 
+
+The frequentist and Bayesian statistical paradigms  
+
+Point- and interval-estimation methods 
+
+Model-selection methods 
+
+Credibility methods for combining estimates and forecasts  
+
+Catastrophe risks 
+
+Reinsurance markets 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+40511423 投资学 
+
+Investment 
+
+ 
+
+3 学分 
+
+48 学时 
+
+This course will introduce and delineate basic concepts and techniques in investments by examining such topics as 
+
+risk-return  trade  off,  optimal  portfolio  construction,  Capital  Asset  Pricing  model,  APT,  Market  efficiency,  topics 
+
+related  to  bonds  and  futures.  On  the  theoretical  side,  this  course  introduces  fundamental  knowledge  for  portfolio 
+
+management  and  capital  asset  pricing.  On  the  practical  side,  this  course  covers  recent  topics  that  are  related  to 
+
+investment strategies and portfolio management. A project about portfolio management  is specially designed  to  let 
+
+students apply the theoretical knowledge into practice. 
+
+ 
+40511442 实证金融学 
+
+Empirical Finance 
+
+ 
+
+2 学分 
+
+32 学时 
+
+课程内容包括金融量化分析与建模的研究内容、统计与计量方法的模型实现、实证论文的写作方法。通过
+
+本课程的学习，学生能够掌握实证金融研究所需要的基础知识，熟悉实证研究所需的金融数据库、统计与
+
+计量方法，能够基于真实数据进行金融专题研究，根据实证结果撰写研究报告和实证论文。 
+
+ 
+40511482 中国与世界：比较政治转型 
+
+ 
+
+2 学分 
+
+32 学时 
+
+China and the World: Comparative Political Transition 
+
+以各国政治转型的历史与现实经验为基础，本课程内容将围绕以下几个主题：1）各国转型的动力何在？经
+
+济、社会结构、精英互动、文化、国际社会等各项因素中，哪些具有相对强大的解释力？这种解释力是否
+
+以及如何根据地区和时代而变化？2）转型的过程是否存在模式？有哪些模式？模式上是否存在优劣之分？
+
+3）转型之后的民主稳固存在哪些挑战？需要哪些条件？为什么民主制度在一些国家比在另一些国家更容易
+
+实现稳固？本课程将着重阅读、梳理、讨论解答这些问题的理论，同时也将围绕这些问题进行案例分析。 
+
+
