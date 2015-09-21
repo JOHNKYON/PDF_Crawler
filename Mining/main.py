@@ -12,3 +12,4 @@ if __name__ == '__main__':
     # 初始化
     algorithm.init()
     algorithm.calculate(config.first_treat)
+    algorithm.json_dump()
